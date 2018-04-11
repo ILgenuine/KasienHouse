@@ -37,7 +37,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -58,7 +58,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -80,7 +80,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -102,7 +102,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -124,7 +124,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -146,7 +146,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE EX 1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE-EX-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -168,7 +168,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -190,7 +190,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -213,7 +213,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -235,7 +235,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -258,7 +258,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE EX 1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE-EX-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
@@ -281,7 +281,7 @@
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
                       <div class="portfolio-all-fix-img">
-                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE-EX-แบบที่-6-1.jpg" alt="Card image cap">
                       </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
