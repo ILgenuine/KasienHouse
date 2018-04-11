@@ -10,7 +10,7 @@
 
     <section>
 
-      <div class="row fix-row home-re-barnd ">
+      <div class="row fix-row home-re-barnd "style="z-index:-2;">
 
             <div class="slide-overlay home-haed-nockdown">
             </div>
@@ -26,26 +26,26 @@
 
               <!-- The slideshow -->
 
-              <div class="carousel-inner header-carousel" width="100%">
+              <div class="carousel-inner header-carousel " width="100%" data-aos="fade-in" data-aos-duration="1500">
                 <div class="carousel-item active">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                   <!-- <img width="100%" src="assets/images/banner/bandner.jpg" alt="Chicago"> -->
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                 </div>
               </div>
 
             </div>
 
-            <button id="btn-curosel-head-u" class="btn-slider button-left-nockdown absolute" type="button"  href="#demo" data-slide="prev">
+            <button id="btn-curosel-head-u" class="btn-slider button-left-nockdown absolute" type="button"  href="#demo" data-slide="prev" data-aos="fade-in" data-aos-duration="1500">
               <i class="fa fa-chevron-left" aria-hidden="true"></i>
             </button>
 
-            <button id="btn-curosel-head-u" class="btn-slider button-right-nockdown absolute" type="button"  href="#demo" data-slide="next">
+            <button id="btn-curosel-head-u" class="btn-slider button-right-nockdown absolute" type="button"  href="#demo" data-slide="next" data-aos="fade-in" data-aos-duration="1500">
               <i class="fa fa-chevron-right" aria-hidden="true"></i>
             </button>
 
@@ -57,7 +57,7 @@
 
 
           <div class="container">
-            <div class="row" data-aos="fade-up">
+            <div class="row " data-aos="fade-up" data-aos-duration="2500" >
 <!-- ======================== Triangle ========================= -->
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -83,10 +83,10 @@
 
           <div id="home-setcollume" class="background-color about-contect-margin-top">
             <div class="row fix-row">
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 " data-aos="fade-left" data-aos-duration="2000" >
                 <div class="about-set-row"><img class="home-fix-img-content" src="assets/images/home/homecontent.jpg" width="100%"></div>
               </div>
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 " data-aos="fade-right" data-aos-duration="2500" >
                 <div class="about-set-collume2">
                   <div class="text-white home-fix-col-title ">
                     <h3>ฝีมือทีมงานมืออาชีพมากประสบการณ์</h3>
@@ -105,7 +105,7 @@
 
 
 <!-- ================================================================================================  style=""-->
-          <div class="container">
+          <div class="container"  data-aos="zoom-in" data-aos-duration="1500" >
             <div class="row home-up-3">
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -123,15 +123,26 @@
 
 <!-- ================================== Slider Full-Sceen ========================================================== -->
           <div class="my-5 back-slider-home">
-                <div class="row fix-row">
-                  <div class="col-2">
+                <div class="row fix-row mx-auto">
+                  <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
                      <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button" id="prev">
                       <i class="fa fa-chevron-left" aria-hidden="true"></i>
                     </button>
                   </div>
 
 
-                    <div class="col-8">
+                    <div class="col-8" style="position:relative;">
+<!--
+                     <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next">
+                        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                     </button>
+
+                     <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button"  id="prev">
+                         <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                       </button> -->
+
+
+
                       <section class="section-slider">
                           <ul class="carousel">
                             <li class="items main-pos slider-li" id="1">
@@ -180,7 +191,7 @@
                                     บ้านแบบอังกฤษ
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4 - Copy.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -210,11 +221,11 @@
 
 
 
-                    <div class="col-2">
+                    <div class="col-2" data-aos="slide-right" data-aos-duration="1500">
                       <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-in" data-aos-duration="1500">
                         <button class="btn-nockdown mb-5 button-center-kasien btn-top-home-responsive" type="button">ดูรูปแบบบ้านทั้งหมด</button>
                     </div>
 
@@ -224,7 +235,7 @@
 
 
               <div class="container">
-                <div class="row mb-5">
+                <div class="row mb-5" data-aos="fade-up" data-aos-duration="1500">
                   <div class="col-12 mt-5 mb-2 align-center">
                     <img width="150px" height="" src="assets/images/triangle.png">
                   </div>
@@ -235,7 +246,7 @@
                 </div>
 
 
-                <div class="row">
+                <div class="row" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
 
                   <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                     <div class="mx-3 mb-5">
@@ -405,10 +416,10 @@
 
 
 
-              <div class="home-py-5" style="background-color: #f4f4f2;">
+              <div class="home-py-5 home-backgroun-contact">
 
-                <div class="container">
-                  <div class="row mb-5 mt-5">
+                <div class="container mb-5">
+                  <div class="row mb-5 mt-5" data-aos="fade-up" data-aos-duration="1500">
                     <div class="col-12 mb-2 align-center">
                       <img width="150px" height="" src="assets/images/triangle.png">
                     </div>
@@ -420,7 +431,7 @@
 
 
                   <div class="row contect-home-nockdown-px-3">
-                    <div class="col-sm-6">
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                       <div class="text-purple home-x-2 home-x-2  responsive-home">
                         <p class="letter-spacing-2">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</p>
                       </div>
@@ -432,7 +443,7 @@
                       </div>
                     </div>
 
-                    <div class="col-sm-6">
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                       <div class="row text-purple home-line-top home-x-contact responsive-home">
                         <div class="col-1"><i class="fa fa-home" aria-hidden="true"></i></div>
                         <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</p></div>
@@ -445,24 +456,24 @@
                     </div>
 
 
-                    <div class="col-sm-6">
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="700">
                       <div class="home-x-2-remaster mt-5 responsive-home"><input class="form-nockdown" type="text" name="name" placeholder="ชื่อ - สกุล" /></div>
                     </div>
 
-                    <div class="col-sm-6">
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="700">
                       <div class="home-x-2-remaster-2 mt-5 responsive-home"><input class="form-nockdown" type="email" name="email" placeholder="อีเมล" /></div>
                     </div>
 
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="900">
                       <div class="home-x-2 mt-5 responsive-home"><input class="form-nockdown" type="text" name="tital" placeholder="เรื่อง" /></div>
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1200">
                       <div class="home-x-2 mt-5 responsive-home"><textarea class="form-nockdown" placeholder="ข้อความ"></textarea></div>
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1500">
                       <button class="btn-nockdown button-center-kasien my-5 home-contact-head-size" type="button">ติดต่อเรา</button>
                     </div>
 
@@ -473,7 +484,9 @@
 
               </div>
 
-              <div class="mb-5 home-border-radius"></div>
+
+<div class="mb-5 home-border-radius"></div>
+
 
 <!-- ======================================================================================= -->
 
@@ -493,7 +506,7 @@
 
 <script type="text/javascript">
   //slideshow style interval
-var autoSwap = setInterval( swap,3500);
+var autoSwap = setInterval( swap,350000);
 
 //pause slideshow and reinstantiate on mouseout
 $('ul, span').hover(
@@ -501,7 +514,7 @@ $('ul, span').hover(
     clearInterval(autoSwap);
 },
   function () {
-   autoSwap = setInterval( swap,3500);
+   autoSwap = setInterval( swap,300000);
 });
 
 //global variables

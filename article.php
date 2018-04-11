@@ -40,7 +40,7 @@
             </div>
           </div>
           <div class="col-sm-6 col-12">
-            <div class="article-x article-img-title-responsive-up "><img src="assets/images/home/TIVEEX.jpg" width="100%"></div>
+            <div class="article-x article-img-title-responsive-up "><img src="assets/images/home/TIVE-EX.jpg" width="100%"></div>
           </div>
         </div>
 
@@ -85,7 +85,7 @@
 
               <div class="col-sm-6 article-img-grit article-y">
                 <div class="text-purple article-x article-y article-img-topauto">
-                  <img class="article-img-fix-size-responsive" src="assets/images/article/ระยะมือจับ 1.png" width="100%">
+                  <img class="article-img-fix-size-responsive" src="assets/images/article/ระยะมือจับ-1.png" width="100%">
                   
                 </div>
               </div>
@@ -107,7 +107,7 @@
               </div>
               <div class="col-sm-6 article-img-grit article-y">
                 <div class="text-purple article-x article-img-topauto">
-                  <img class="article-img-fix-size-responsive" class="article-y" src="assets/images/article/ลายละเอียดห้องน้ำ 1.png" width="100%">
+                  <img class="article-img-fix-size-responsive" class="article-y" src="assets/images/article/ลายละเอียดห้องน้ำ-1.png" width="100%">
                 </div>
               </div>
 
