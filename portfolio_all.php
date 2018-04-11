@@ -12,13 +12,13 @@
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>    --> 
+      </div>    -->
         <div class="row fix-row">
-          <div class="slide-overlay home-haed-nockdown2">
-          </div>  
+          <div class="slide-overlay">
+          </div>
         </div>
 <!-- ======================================Content========================================================= -->
-      <div class="container">
+      <div class="container"  style="z-index: -1;position: relative;">
         <div class="row">
           <div class="col-12 align-center" style="margin-top: 130px;">
             <img width="150px" height="" src="assets/images/triangle.png">
@@ -334,7 +334,7 @@
 
 
       </div> <!-- Container -->
-    
+
 
 
 
@@ -346,7 +346,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -358,4 +358,3 @@
 
 
 <!-- ====================== Script Slider ============================== -->
-

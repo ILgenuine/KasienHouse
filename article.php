@@ -12,13 +12,13 @@
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>   -->  
+      </div>   -->
       <div class="row fix-row">
-        <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
-        </div>  
+        <div class="slide-overlay">
+        </div>
       </div>
 <!-- ======================================Content========================================================= -->
-      <div class="container">
+      <div class="container" style="z-index: -1;position: relative;">
         <div class="row">
           <div class="col-12 align-center" style="margin-top: 130px;">
             <img width="150px" height="" src="assets/images/triangle.png">
@@ -86,7 +86,7 @@
               <div class="col-sm-6 article-img-grit article-y">
                 <div class="text-purple article-x article-y article-img-topauto">
                   <img class="article-img-fix-size-responsive" src="assets/images/article/ระยะมือจับ-1.png" width="100%">
-                  
+
                 </div>
               </div>
               <div class="col-sm-6 acrticle-contenc-grit article-y">
@@ -141,7 +141,7 @@
 
 
       </div> <!-- Container -->
-    
+
 
 
 
@@ -153,7 +153,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -165,4 +165,3 @@
 
 
 <!-- ====================== Script Slider ============================== -->
-

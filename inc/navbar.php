@@ -19,10 +19,11 @@
             <a class="nav-link nav-link-responsive" href="article.php">บทความ</a>
           </li>
           <li class="nav-item dropdown" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
-            <a  class="nav-link dropdown-toggle nav-link-responsive" href="style-home.php">
+            <a  class="nav-link dropdown-toggle nav-link-responsive">
                รูปแบบบ้าน
             </a>
             <div class="dropdown-menu dropdown-content">
+              <a class="dropdown-item dropdown-text" href="style-home.php"><font class="nav-text">รูปแบบบ้านทั้งหมด</font></a>
               <a class="dropdown-item dropdown-text" href="home_detail.php"><font class="nav-text">รูปแบบบ้านญี่ปุ่น</font></a>
               <a class="dropdown-item dropdown-text" href="home_detail.php"><font class="nav-text">รูปแบบบ้านอังกฤษ</font></a>
               <a class="dropdown-item dropdown-text" href="home_detail.php"><font class="nav-text">รูปแบบบ้านไทยประยุกต์</font></a>
