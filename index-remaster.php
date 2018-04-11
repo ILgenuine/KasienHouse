@@ -10,7 +10,7 @@
 
     <section>
 
-      <div class="row fix-row home-re-barnd ">
+      <div class="row fix-row home-re-barnd "style="z-index:-2;">
 
             <div class="slide-overlay home-haed-nockdown">
             </div>
@@ -26,7 +26,7 @@
 
               <!-- The slideshow -->
 
-              <div class="carousel-inner header-carousel" width="100%">
+              <div class="carousel-inner header-carousel " width="100%" data-aos="fade-in" data-aos-duration="1500">
                 <div class="carousel-item active">
                   <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                   <!-- <img width="100%" src="assets/images/banner/bandner.jpg" alt="Chicago"> -->
@@ -57,7 +57,7 @@
 
 
           <div class="container">
-            <div class="row" data-aos="fade-up">
+            <div class="row " data-aos="fade-up" data-aos-duration="2500" data-aos-anchor-placement="top-center">
 <!-- ======================== Triangle ========================= -->
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -83,10 +83,10 @@
 
           <div id="home-setcollume" class="background-color about-contect-margin-top">
             <div class="row fix-row">
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 " data-aos="fade-left" data-aos-duration="2000" data-aos-anchor-placement="top-center">
                 <div class="about-set-row"><img class="home-fix-img-content" src="assets/images/home/homecontent.jpg" width="100%"></div>
               </div>
-              <div class="col-12 col-sm-6">
+              <div class="col-12 col-sm-6 " data-aos="fade-right" data-aos-duration="2500" data-aos-anchor-placement="top-center">
                 <div class="about-set-collume2">
                   <div class="text-white home-fix-col-title ">
                     <h3>ฝีมือทีมงานมืออาชีพมากประสบการณ์</h3>
@@ -105,7 +105,7 @@
 
 
 <!-- ================================================================================================  style=""-->
-          <div class="container">
+          <div class="container"  data-aos="zoom-in" data-aos-duration="1500" data-aos-anchor-placement="top-center">
             <div class="row home-up-3">
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -124,14 +124,14 @@
 <!-- ================================== Slider Full-Sceen ========================================================== -->
           <div class="my-5 back-slider-home">
                 <div class="row fix-row">
-                  <div class="col-2">
+                  <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
                      <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button" id="prev">
                       <i class="fa fa-chevron-left" aria-hidden="true"></i>
                     </button>
                   </div>
 
 
-                    <div class="col-8">
+                    <div class="col-8"  data-aos="zoom-in" data-aos-duration="1500">
                       <section class="section-slider">
                           <ul class="carousel">
                             <li class="items main-pos slider-li" id="1">
@@ -210,11 +210,11 @@
 
 
 
-                    <div class="col-2">
+                    <div class="col-2" data-aos="slide-right" data-aos-duration="1500">
                       <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-in" data-aos-duration="1500">
                         <button class="btn-nockdown mb-5 button-center-kasien btn-top-home-responsive" type="button">ดูรูปแบบบ้านทั้งหมด</button>
                     </div>
 
@@ -224,7 +224,7 @@
 
 
               <div class="container">
-                <div class="row mb-5">
+                <div class="row mb-5" data-aos="fade-up" data-aos-duration="1500">
                   <div class="col-12 mt-5 mb-2 align-center">
                     <img width="150px" height="" src="assets/images/triangle.png">
                   </div>
@@ -235,7 +235,7 @@
                 </div>
 
 
-                <div class="row">
+                <div class="row" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
 
                   <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                     <div class="mx-3 mb-5">
@@ -405,9 +405,9 @@
 
 
 
-              <div class="home-py-5">
+              <div class="home-py-5 home-backgroun-contact">
 
-                <div class="container">
+                <div class="container mb-5">
                   <div class="row mb-5 mt-5">
                     <div class="col-12 mb-2 align-center">
                       <img width="150px" height="" src="assets/images/triangle.png">
@@ -473,6 +473,8 @@
 
               </div>
 
+
+<div class="mb-5 home-border-radius"></div>
 
 
 <!-- ======================================================================================= -->
