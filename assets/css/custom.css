@@ -3,7 +3,7 @@
 ---------------------------  NockDown CSS---------------------------------
 ==========================================================================
 */
-/* [data-aos] { pointer-events: none; &.aos-animate { pointer-events: auto; } } } */
+
 /*------------------- General ---------------------*/
 body {
 	min-height: 100%;
@@ -21,6 +21,15 @@ body {
   background-color:#f4f4f2;
   -webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
   clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
+}
+.home-haed-nockdown2 {
+  z-index: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #f4f4f2;
+  -webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
+  clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);
 }
 .absolute {
   position: absolute;
@@ -158,7 +167,7 @@ p {
     height: 23px;
 }
 .back-slider-home {
-    background-image: url('../images/bg-yellow.png');
+    background-image: url('../images/bg-yellow.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: 0ex;
@@ -180,7 +189,7 @@ p {
 }
 .home-py-5 {
     padding-top: 45px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 .home-fix-img {
     height: 14rem;
@@ -361,13 +370,13 @@ textarea.form-nockdown {
 .nockdown-slider-button-prev {
     margin-top: 215px;
     position: absolute;
-    right: 0px;
+    right: 0%;
 
 }
 .nockdown-slider-button-next {
     margin-top: 215px;
     position: absolute;
-    left: 0px;
+    left: 0%;
 }
 .btn-slider {
     display: inline-block;
@@ -926,6 +935,22 @@ h3.home-text-top-5 {
     font-size: 20px;
     margin-top: 40px;
 }
+.contact-blackgroun-set {
+    background-color:#f4f4f2;
+    padding-top: 50px;
+}
+.contact-x-contact {
+    margin: 0px 15px;
+}
+.contect-col-margin0 {
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+    letter-spacing: 2px;
+}
+.contact-col-set-input {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 /*========================= article ======================*/
 .article-haed-fix {
     flex: 0 0 100%;
@@ -982,13 +1007,24 @@ h3.home-text-top-5 {
 .style-home-up-3 {
     margin-top: 0ex;
 }
+.style-home-backgroun-set {
+    background-color: #f4f4f2;
+    margin-top: 40px;
+}
 .style-home-cradtitle {
     margin-top: 15px;
     margin-bottom: 10px;
-    font-size: 19px;
+    font-size: 17px;
     font-weight: bold;
     overflow: hidden;
-    height: 28px;
+    height: 25px;
+    color: #2e2d4e;
+}
+.style-home-content-card {
+    font-size: 14px;
+    overflow: hidden;
+    height: 40px;
+    color: #2e2d4e;
 }
 .style-mx-auto {
     margin-top: 30px;
@@ -1039,6 +1075,14 @@ h3.home-text-top-5 {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 0rem;
+}
+.style-home-fix-title {
+    overflow: hidden;
+    margin-top: 0px;
+    color: #52297f;
+    font-weight: bold;
+    font-size: 20px;
+    height: 22px;
 }
 /*===================== Portfilio-detail===================*/
 .portfilio-detail-border-left-new {
@@ -1168,6 +1212,31 @@ h3.home-text-top-5 {
 .portfolio-all-fix-img {
     height: 15rem;
 }
+.portfolio-all-fix-title {
+    overflow: hidden;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #2e2d4e;
+    font-weight: bold;
+    font-size: 17px;
+    height: 40px;
+}
+.portfolio-all-card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 0px 10px;
+}
+.portfolio-all-background {
+  background-color: #f4f4f2;
+  margin-top: 40px;
+}
+  .page-item {
+    font-family: 'kanit';
+    color: #52297f!important;
+    padding: 10px 10px;
+    font-weight: 350;
+}
 .portfolio-all-borderradius {
     border-radius: 100%!important;
     width: 40px;
@@ -1178,10 +1247,13 @@ h3.home-text-top-5 {
     margin-bottom: 50px;
 }
 .portfolio-all-borderradius:hover {
-    color: #fff;
+    color: #fff!important;
     text-decoration: none;
     background-color: #522980;
     border-color: #522980;
+}
+.portfolio-all-fa-size {
+    font-size: 17px!important;
 }
 .portfolio-all-borderradius:focus {
     z-index: 2;
@@ -1232,7 +1304,7 @@ h3.home-text-top-5 {
       margin-right: -35px;
   }
   .back-slider-home {
-      background-image: url('../images/bg-yellow.png');
+      background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -1612,17 +1684,16 @@ h3.home-text-top-5 {
   }
   .style-home-haed-title {
       margin-left: 0px!important;
-      margin-top: 8px;
   }
   .style-home-fix-img {
       height: 21ex;
   }
-  .style-mx-auto {
+/*  .style-mx-auto {
       margin-right: 2ex;
       margin-left: 2ex;
       margin-top: 2ex;
       margin-bottom: 2ex;
-  }
+  }*/
   .card-text-nockdown:last-child {
       margin-bottom: 5px;
       overflow: hidden;
@@ -1673,7 +1744,7 @@ h3.home-text-top-5 {
       cursor: pointer;
   }
   .portfolio-all-fix-img {
-      height: 13rem;
+      height: 185px;
   }
 /*================== contact ==========================*/
 .contact-row {
@@ -1742,7 +1813,7 @@ h3.home-text-top-5 {
       margin-right: 45px;
   }
   .back-slider-home {
-      background-image: url('../images/bg-yellow.png');
+      background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -1991,16 +2062,20 @@ h3.home-text-top-5 {
   .card-text-nockdown:last-child {
       margin-bottom: 3px;
       overflow: hidden;
-      height: 47px;
+      height: 40px;
       color: #52297f;
-      font-size: 17px!important;
+      font-size: 14px!important;
   }
 /*===================== Contact =========================*/
-.contact-row {
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 35px;
-}
+  .contact-row {
+      margin-left: 60px;
+      margin-right: 60px;
+      margin-bottom: 35px;
+  }
+  .contect-col-margin0 {
+      padding-left: 8px!important;
+      padding-right: 8px!important;
+  }
 /*===================== Article ==========================*/
   .article-img-grit {
     flex: 0 0 100%;
@@ -2075,7 +2150,27 @@ h3.home-text-top-5 {
       margin-left: -17px;
   }
   .style-home-fix-img {
-      height: 25ex;
+      height: 200px;
+  }
+  .style-mx-auto {
+      margin-top: 45px;
+      margin-bottom: 0px;
+      margin-left: 15px;
+      margin-right: 15px;
+  }
+  .style-home-backgroun-set {
+      background-color: #f4f4f2;
+      margin-top: 40px;
+      padding-bottom: 30px;
+  }
+  .style-home-cradtitle {
+      margin-top: 15px;
+      margin-bottom: 10px;
+      font-size: 17px!important;
+      font-weight: bold;
+      overflow: hidden;
+      height: 25px;
+      color: #2e2d4e;
   }
 /*================== home detail ======================*/
   .portfilio-detail-border-left-new {
@@ -2115,6 +2210,10 @@ h3.home-text-top-5 {
   #thumbs .portfolio-detail-item {
       height: 68px;
       margin-bottom: 7ex;
+  }
+/*============== Portfolio-all =========================*/
+  .portfolio-all-fix-img {
+      height: 210px;
   }
 }
 @media (max-width: 414px) {
@@ -2217,7 +2316,7 @@ h3.home-text-top-5 {
   .card-text-nockdown:last-child {
       margin-bottom: 0;
       overflow: hidden;
-      height: 46px;
+      height: 42px;
       color: #52297f;
       font-size: 15px!important;
   }
@@ -2344,7 +2443,7 @@ h3.home-text-top-5 {
       font-size: 22px;
   }
   .btn-top-home-responsive {
-     margin-top: 25px!important;
+     margin-top: 0px!important;
   }
   .home-line-top {
       margin-top: 40px;
@@ -2550,7 +2649,7 @@ h3.home-text-top-5 {
       margin-bottom: 3ex;
   }
   .style-home-fix-img {
-      height: 29ex;
+      height: 230px;
   }
   .style-home-haed-title {
       margin-left: 0px!important;
@@ -2622,16 +2721,40 @@ h3.home-text-top-5 {
       margin-top: 2ex;
   }
   .portfolio-all-fix-img {
-      height: 17rem;
+      height: 245px;
+  }
+  .portfolio-all-borderradius {
+      border-radius: 100%!important;
+      width: 35px;
+      text-align: center;
+      margin-left: -15px!important;
+      background-color: #522980;
+      color: #fff;
+      margin-bottom: 50px;
   }
   .portfolio-detail-ma-2 {
       margin: 2ex 2ex;
+  }
+  .portfolio-fontsize-responsive {
+      font-size: 24px;
   }
 /*======================== contact =====================*/
   .contact-row {
       margin-left: 10px;
       margin-right: 10px;
       margin-bottom: 35px;
+  }
+  .contect-col-margin0 {
+      padding-left: 15px!important;
+      padding-right: 15px!important;
+      letter-spacing: 0px;
+  }
+  .contact-responsive-tell {
+      padding-top: 5px;
+  }
+  .coltact-col-respon {
+      padding-right: 5px;
+      padding-left: 5px;
   }
 }
 @media (max-width: 375px) {
@@ -2769,7 +2892,7 @@ h3.home-text-top-5 {
       margin-top: -20px;
   }
   .btn-top-home-responsive {
-      margin-top: 8.5ex!important;
+      margin-top: 40px!important;
       font-size: 13px;
   }
   /*===================== About ==========================*/
@@ -2799,9 +2922,9 @@ h3.home-text-top-5 {
       height: 282px;
   }
   .card-text-nockdown:last-child {
-      margin-bottom: 3px;
+      margin-bottom: 0px;
       overflow: hidden;
-      height: 47px;
+      height: 40px;
       color: #52297f;
       font-size: 14px!important;
   }
@@ -2812,6 +2935,11 @@ h3.home-text-top-5 {
   }
   .about-titel-top {
       margin-top: 1ex;
+  }
+  .contect-col-margin0 {
+      padding-left: 10px!important;
+      padding-right: 10px!important;
+      letter-spacing: 0px;
   }
 /*============== article ==========================*/
   .article-img-fix-size-responsive {
@@ -2853,7 +2981,13 @@ h3.home-text-top-5 {
       margin-bottom: 1rem;
   }
   .style-home-fix-img {
-      height: 25ex;
+      height: 215px;
+  }
+  .style-home-backgroun-set {
+      background-color: #f4f4f2;
+      margin-top: 40px;
+      padding-bottom: 30px;
+      padding-top: 30px;
   }
 /*================ Home - detail ===================*/
   #thumbs .home-detail-item {
@@ -2896,10 +3030,19 @@ h3.home-text-top-5 {
       font-size: 12px!important;
   }
   .portfolio-all-fix-img {
-      height: 16rem;
+      height: 220p
   }
 }
 @media (max-width: 320px) {
+
+	.back-slider-home {
+	    height: 273px;
+	}
+
+	#home-setcollume {
+	    margin-bottom: 5rem;
+	}
+
   input,textarea {
       font-size: 13px!important;
   }
@@ -2977,7 +3120,7 @@ h3.home-text-top-5 {
       margin-left: 0px;
   }
   .btn-top-home-responsive {
-      margin-top: 55px!important;
+      margin-top: 30px!important;
   }
   .responsive-home {
       margin-right: 0px;
@@ -3156,10 +3299,16 @@ h3.home-text-top-5 {
       margin-left: -20px;
   }
   .style-home-fix-img {
-      height: 12rem;
+      height: 180px;
+  }
+  .style-home-content-card {
+      font-size: 14px;
+      overflow: hidden;
+      height: 37px;
+      color: #2e2d4e;
   }
   .card-text-nockdown:last-child {
-      font-size: 14px!important;
+      font-size: 12px!important;
   }
 /*=================== Home - detail ====================*/
   .home-detail-p-auto {
@@ -3204,9 +3353,19 @@ h3.home-text-top-5 {
       margin-top: 1rem;
   }
   .portfolio-all-fix-img {
-      height: 13rem;
+      height: 185px;
   }
   .owl-theme .owl-nav {
       margin-top: 0ex;
+  }
+/*================== portfolio - all ====================*/
+  .portfolio-all-fix-title {
+      overflow: hidden;
+      margin-bottom: 15px;
+      margin-top: 15px;
+      color: #2e2d4e;
+      font-weight: bold;
+      font-size: 16px;
+      height: 40px;
   }
 }
