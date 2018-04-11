@@ -18,7 +18,7 @@
         </div>
       </div>
 <!-- ======================================Content========================================================= -->
-      <div class="container" style="z-index: -1;position: relative;">
+      <div class="container">
         <div class="row">
           <div class="col-12 align-center" style="margin-top: 130px;">
             <img width="150px" height="" src="assets/images/triangle.png">

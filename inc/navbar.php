@@ -18,7 +18,7 @@
           <li class="nav-item" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
             <a class="nav-link nav-link-responsive" href="article.php">บทความ</a>
           </li>
-          <li class="nav-item dropdown" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
+          <li class="nav-item dropdown">
             <a  class="nav-link dropdown-toggle nav-link-responsive">
                รูปแบบบ้าน
             </a>
