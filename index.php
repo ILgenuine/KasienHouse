@@ -122,7 +122,7 @@
           </div> <!-- Container -->
 
 <!-- ================================== Slider Full-Sceen ========================================================== -->
-          <div class="my-5 back-slider-home">
+          <div class="my-lg-5 my-md-5 my-2 back-slider-home">
                 <div class="row fix-row mx-auto">
                   <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
                      <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button" id="prev">
@@ -151,7 +151,7 @@
                                     บ้านแบบญี่ปุ่น
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                      <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" class="home-img-card-body"></a>
+                                      <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -161,7 +161,7 @@
                                     บ้านแบบโมเดิร์น
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE EX2.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -171,7 +171,7 @@
                                     บ้านแบบอังกฤษ
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -181,8 +181,8 @@
                                     บ้านแบบไทย
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE EX2.jpg" class="home-img-card-body"></a>
-                                  </div>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="home-img-card-body"></a>
+s                                  </div>
                               </div>
                             </li>
                             <li class="items back-pos slider-li" id="5">
@@ -191,7 +191,7 @@
                                     บ้านแบบอังกฤษ
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4 - Copy.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -201,7 +201,7 @@
                                     บ้านแบบญี่ปุ่น
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE EX2.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -211,7 +211,7 @@
                                     บ้านแบบโมเดิร์น
                                   </div>
                                   <div class="card-body home-slider-card-body">
-                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" class="home-img-card-body"></a>
+                                    <a href="home_detail.php"><img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="home-img-card-body"></a>
                                   </div>
                               </div>
                             </li>
@@ -253,7 +253,7 @@
                       <div class="card-nockdown">
                         <div class="home-hover">
 
-                          <div class="home-fix-img"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Avatar" class="image-home"></div>
+                          <div class="home-fix-img"><img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Avatar" class="image-home"></div>
 
                           <div class="overlay">
 
@@ -277,7 +277,7 @@
                     <div class="mx-3 mb-5">
                       <div class="card-nockdown">
                         <div class="home-hover">
-                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
 
                               <form method="get" action="home_detail.php">
@@ -301,7 +301,7 @@
                     <div class="mx-3 mb-5">
                       <div class="card-nockdown">
                         <div class="home-hover">
-                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
 
                               <form method="get" action="home_detail.php">
@@ -325,7 +325,7 @@
                       <div class="card-nockdown">
 
                          <div class="home-hover">
-                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
 
                               <form method="get" action="home_detail.php">
@@ -350,7 +350,7 @@
                       <div class="card-nockdown">
 
                         <div class="home-hover">
-                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
 
                               <form method="get" action="home_detail.php">
@@ -375,7 +375,7 @@
                       <div class="card-nockdown">
 
                          <div class="home-hover">
-                          <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern house type 02/TIVE EX2.jpg" alt="Card image cap"></div>
+                           <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -473,7 +473,7 @@
                       <div class="home-x-2 mt-5 responsive-home"><textarea class="form-nockdown" placeholder="ข้อความ"></textarea></div>
                     </div>
 
-                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1500">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1200" >
                       <button class="btn-nockdown button-center-kasien my-5 home-contact-head-size" type="button">ติดต่อเรา</button>
                     </div>
 
