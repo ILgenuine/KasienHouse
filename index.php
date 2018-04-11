@@ -12,10 +12,10 @@
 
       <div class="row fix-row home-re-barnd">
 
-            <div class="slide-overlay home-haed-nockdown">
-            </div>
+        <div class="slide-overlay">
+        </div>
 
-            <div id="demo" class="carousel slide" data-ride="carousel">
+            <div id="demo" class="carousel slide" data-ride="carousel" style="z-index: -2;position: relative;">
 
               <!-- Indicators -->
               <ul class="carousel-indicators">
