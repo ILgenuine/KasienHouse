@@ -845,8 +845,8 @@ h3.home-text-top-5 {
   }
   .home-btn-top-3{
     margin-top: 260px;
-    margin-left: -70px;
-    margin-right: -70px;
+    margin-left: -12px;
+    margin-right: -12px;
   }
   .home-fix-col-title {
     max-width: 50%;
@@ -1165,6 +1165,21 @@ h3.home-text-top-5 {
 .portfolio-all-fix-img {
     height: 15rem;
 }
+.portfolio-all-fix-title {
+    overflow: hidden;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #52297f;
+    font-weight: bold;
+    font-size: 20px;
+    height: 45px;
+}
+  .page-item {
+    font-family: 'kanit';
+    color: #52297f!important;
+    padding: 10px 10px;
+    font-weight: 350;
+}
 .portfolio-all-borderradius {
     border-radius: 100%!important;
     width: 40px;
@@ -1175,10 +1190,13 @@ h3.home-text-top-5 {
     margin-bottom: 50px;
 }
 .portfolio-all-borderradius:hover {
-    color: #fff;
+    color: #fff!important;
     text-decoration: none;
     background-color: #522980;
     border-color: #522980;
+}
+.portfolio-all-fa-size {
+    font-size: 17px!important;
 }
 .portfolio-all-borderradius:focus {
     z-index: 2;

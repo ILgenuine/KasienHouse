@@ -36,7 +36,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                             <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -44,9 +46,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -55,7 +57,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -63,9 +67,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -75,7 +79,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -83,9 +89,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -95,7 +101,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -103,9 +111,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -115,7 +123,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -123,9 +133,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -135,7 +145,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE EX 1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -143,9 +155,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -155,7 +167,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -163,9 +177,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -175,7 +189,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -183,9 +199,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -196,7 +212,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -204,9 +222,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -216,7 +234,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -224,9 +244,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -237,7 +257,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/morocco house type 1/TIVE EX 1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -245,9 +267,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -258,7 +280,9 @@
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
                     <div class="home-hover">
-                      <div class="portfolio-all-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                      <div class="portfolio-all-fix-img">
+                        <img class="card-img-top-nockdown image-home" src="assets/images/englist house type 2/TIVE EX แบบที่ 6-1.jpg" alt="Card image cap">
+                      </div>
                       <div class="overlay">
                         <form method="get" action="portfolio_detail.php">
                           <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -266,9 +290,9 @@
                       </div>
                     </div>
                       <div class="home-card-body">
-                        <h5 class="card-title home-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -283,7 +307,7 @@
                       <li class="page-item">
                         <a class="page-link portfolio-all-borderradius" href="#" aria-label="Previous">
                           <span aria-hidden="true"></span>
-                          <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                          <i class="fa fa-chevron-left portfolio-all-fa-size" aria-hidden="true"></i>
                         </a>
                       </li>
                       <li class="page-item"><a class="page-link portfolio-all-borderradius" href="#">1</a></li>
@@ -292,7 +316,7 @@
                       <li class="page-item">
                         <a class="page-link portfolio-all-borderradius" href="#" aria-label="Next">
                           <span aria-hidden="true"></span>
-                          <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                          <i class="fa fa-chevron-right portfolio-all-fa-size" aria-hidden="true"></i>
                         </a>
                       </li>
                     </ul>
