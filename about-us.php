@@ -14,13 +14,13 @@
         </div>
       </div>   -->
         <div class="row fix-row">
-          <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
-          </div>  
+          <div class="slide-overlay">
+          </div>
         </div>
 <!-- ======================================Content========================================================= -->
 
-      
-          <div class="container"> 
+
+          <div class="container" style="z-index: -1;position: relative;">
             <div class="row">
               <div class="col-12 align-center" style="margin-top: 130px;">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -55,7 +55,7 @@
                   <div class="text-white">
                     <p>เป็นแหล่งรวมบ้านน็อคดาวน์ หรือที่เรียกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์ไม่ว่าจะเป็นสไตล์รีสอร์ท สไตล์ไทยหรือสไตล์บ้านน็อคดาวน์โมเดิร์นเรารับสร้างบ้านน็อคดาวน์ราคาถูก ไปจนถึงการให้คำปรึกษาเกี่ยวกับการรับสร้างบ้านน็อคดาวน์แบบครบวงจร</p>
                   </div>
-                </div>  
+                </div>
               </div>
               <div class="col-12 col-sm-6">
                 <div class="about-set-row"><img src="assets/images/home/TIVEEX.jpg" style="width: 100%;"></div>
@@ -65,7 +65,7 @@
 <!-- ======================================================================================= -->
 
 
-          <div class="container"> 
+          <div class="container">
             <div class="row">
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png"></img>
@@ -104,8 +104,8 @@
                   <div class="text-white">
                     <p>เน้นคุณภาพของงานและวัสดุที่ใช้นั้นจะจ้องมีคุณณภาพตรงตามมาตรฐานกำหนด ที่สำคัญบ้านน็อคดาน์ทุกหลังที่เราสร้างขึ้นต้องตอบโจทย์ความต้องการของลูกค้าได้เป็นอย่างดี อาทิเช่น ลูกค้าต้องการทำธุรกิจร้านกาแฟสำเร็จรูป แบบเช่าพื้นที่ระยะยาวจะสนใจในเรื่องของร้านค้าสำเร็จรูปหรือที่เรียกว่า ร้านค้าน็อคดาวน์ ซึ่งสามารถนำไปวางในพื้นที่เช่าได้อย่างสะดวกง่ายดายหรือถ้าจะตอบโจทย์สำหรับลูกค้าที่มีธุระกิจประเภท ฟรีแลนด์อีเว้นท์ต่างๆ และต้องการใช้พื้นที่ที่มิดชิด</p>
                   </div>
-                </div>                
-                
+                </div>
+
               </div>
             </div>
           </div>
@@ -115,10 +115,10 @@
     <div class="mb-5"></div>
     <?php include_once('inc/footer.php'); ?>
 
-    
-    
 
-    <?php include_once('inc/footer.php'); ?> 
+
+
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -142,7 +142,7 @@ var autoSwap = setInterval( swap,3500);
 $('ul, span').hover(
   function () {
     clearInterval(autoSwap);
-}, 
+},
   function () {
    autoSwap = setInterval( swap,3500);
 });
@@ -163,52 +163,52 @@ $('li.items').each(function(index) {
 //swap images function
 function swap(action) {
   var direction = action;
-  
+
   //moving carousel backwards
   if(direction == 'counter-clockwise') {
     var leftitem = $('.left-pos').attr('id') - 1;
     if(leftitem == 0) {
       leftitem = itemCount;
     }
-    
+
     $('.right-pos').removeClass('right-pos').addClass('back-pos');
     $('.main-pos').removeClass('main-pos').addClass('right-pos');
     $('.left-pos').removeClass('left-pos').addClass('main-pos');
     $('#'+leftitem+'').removeClass('back-pos').addClass('left-pos');
-    
+
     startItem--;
     if(startItem < 1) {
       startItem = itemCount;
     }
   }
-  
+
   //moving carousel forward
   if(direction == 'clockwise' || direction == '' || direction == null ) {
     function pos(positionvalue) {
       if(positionvalue != 'leftposition') {
         //increment image list id
         position++;
-        
+
         //if final result is greater than image count, reset position.
         if((startItem+position) > resetCount) {
           position = 1-startItem;
         }
       }
-    
+
       //setting the left positioned item
       if(positionvalue == 'leftposition') {
         //left positioned image should always be one left than main positioned image.
         position = startItem - 1;
-      
+
         //reset last image in list to left position if first image is in main position
         if(position < 1) {
           position = itemCount;
         }
       }
-   
+
       return position;
-    }  
-  
+    }
+
    $('#'+ startItem +'').removeClass('main-pos').addClass('left-pos');
    $('#'+ (startItem+pos()) +'').removeClass('right-pos').addClass('main-pos');
    $('#'+ (startItem+pos()) +'').removeClass('back-pos').addClass('right-pos');
@@ -235,10 +235,10 @@ $('#prev').click(function() {
 //if any visible items are clicked
 $('li').click(function() {
   if($(this).attr('class') == 'items left-pos') {
-     swap('counter-clockwise'); 
+     swap('counter-clockwise');
   }
   else {
-    swap('clockwise'); 
+    swap('clockwise');
   }
 });
 

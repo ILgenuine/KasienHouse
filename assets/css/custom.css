@@ -168,7 +168,7 @@ p {
 .back-slider-home {
     background-image: url('../images/bg-yellow.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position-y: 0ex;
     height: 625px;
 }
@@ -324,6 +324,15 @@ textarea.form-nockdown {
 .card-header{
 	font-weight: 400;
 }
+
+.slide-overlay{
+	z-index: -1;
+	position: absolute;
+	height: 100%;width: 100%;background-color: #f4f4f2;
+	-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
+	clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);
+}
+
 /*=====================================================================
 ============================= Navbar - Logo ===========================
 =======================================================================*/
@@ -1303,7 +1312,7 @@ h3.home-text-top-5 {
   .back-slider-home {
       background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
-      background-size: 100%;
+      background-size: cover;
       background-position-y: 0px;
       height: 515px;
   }
@@ -1812,7 +1821,7 @@ h3.home-text-top-5 {
   .back-slider-home {
       background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
-      background-size: 100%;
+      background-size: cover;
       background-position-y: 0px;
       height: 381px;
   }
