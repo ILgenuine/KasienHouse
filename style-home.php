@@ -7,12 +7,7 @@
   <body>
 
       <?php include_once('inc/navbar.php'); ?>
-
-<!--       <div class="row fix-row">
-        <div class="kasian-col-haed-nav">
-          <div class="triangle-nav"></div>
-        </div>
-      </div>   -->  
+  
         <div class="row fix-row">
           <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
           </div>  
