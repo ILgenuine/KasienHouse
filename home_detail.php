@@ -12,10 +12,10 @@
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>   -->  
+      </div>   -->
         <div class="row fix-row">
-          <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
-          </div>  
+          <div class="slide-overlay">
+          </div>
         </div>
 <!-- ======================================Content========================================================= -->
           <div class="container">
@@ -149,13 +149,13 @@
                             <div class="home-detail-head-text"><b>ส่วนประกอบของบ้าน</b></div>
                             <div class="home-detail-col-porfile">
                               <div class="row">
-                                <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div> 
+                                <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div>
                                 <div class="col-6"><i class="fa fa-car" aria-hidden="true"></i> : 2 ที่จอดรถ</div>
                               </div>
                             </div>
                             <div class="home-detail-col-porfile">
                               <div class="row">
-                                <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div> 
+                                <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
                                 <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                               </div>
                             </div>
@@ -176,14 +176,14 @@
 
 
               </div>
-            </div> 
+            </div>
 
 
 
 
 
 
-          </div> <!-- Container --> 
+          </div> <!-- Container -->
 
 
 
@@ -195,7 +195,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -213,7 +213,7 @@
   var thumbs = $("#thumbs");
   var totalslides = 10;
   var syncedSecondary = true;
-  
+
   bigimage.owlCarousel({
     items : 1,
     slideSpeed : 2000,
@@ -241,11 +241,11 @@
   function syncPosition(el) {
     //if loop is set to false, then you have to uncomment the next line
     //var current = el.item.index;
-    
+
     //to disable loop, comment this block
     var count = el.item.count-1;
     var current = Math.round(el.item.index - (el.item.count/2) - .5);
-    
+
     if(current < 0) {
       current = count;
     }
@@ -261,7 +261,7 @@
     var onscreen = thumbs.find('.owl-item.active').length - 1;
     var start = thumbs.find('.owl-item.active').first().index();
     var end = thumbs.find('.owl-item.active').last().index();
-    
+
     if (current > end) {
       thumbs.data('owl.carousel').to(current, 100, true);
     }
@@ -269,14 +269,14 @@
       thumbs.data('owl.carousel').to(current - onscreen, 100, true);
     }
   }
-  
+
   function syncPosition2(el) {
     if(syncedSecondary) {
       var number = el.item.index;
       bigimage.data('owl.carousel').to(number, 100, true);
     }
   }
-  
+
   thumbs.on("click", ".owl-item", function(e){
     e.preventDefault();
     var number = $(this).index();

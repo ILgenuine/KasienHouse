@@ -12,10 +12,10 @@
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>   -->  
+      </div>   -->
       <div class="row fix-row">
-        <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
-        </div>  
+        <div class="slide-overlay">
+        </div>
       </div>
 <!-- ======================================Content========================================================= -->
           <div class="container">
@@ -87,7 +87,7 @@
                         </div>
                   </div>
 <!-- ============================= END SLEDER SHOW GALLERY ========================== -->
-                  
+
                   <div class="col-sm-12">
                     <div class="portfolio-detail-ma-3"><p class="text-paragraph text-purple">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 เมื่อเครื่องพิมพ์โนเนมเครื่องหนึ่งนำรางตัวพิมพ์มาสลับสับตำแหน่งตัวอักษรเพื่อทำหนังสือตัวอย่าง Lorem Ipsum อยู่ยงคงกระพันมาไม่ใช่แค่เพียงห้าศตวรรษ แต่อยู่มาจนถึงยุคที่พลิกโฉมเข้าสู่งานเรียงพิมพ์ด้วยวิธีทางอิเล็กทรอนิกส์ และยังคงสภาพเดิมไว้อย่างไม่มีการเปลี่ยนแปลง มันได้รับความนิยมมากขึ้นในยุค ค.ศ. 1960 เมื่อแผ่น Letraset วางจำหน่ายโดยมีข้อความบนนั้นเป็น Lorem Ipsum และล่าสุดกว่านั้น คือเมื่อซอฟท์แวร์การทำสื่อสิ่งพิมพ์ (Desktop Publishing) อย่าง Aldus PageMaker ได้รวมเอา Lorem Ipsum เวอร์ชั่นต่างๆ เข้าไว้ในซอฟท์แวร์ด้วย</p></div>
 
@@ -98,13 +98,13 @@
                         <div style="margin-top: 20px;"><b>ส่วนประกอบของบ้าน</b></div>
                         <div class="col-sm-6">
                           <div class="row">
-                            <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div> 
+                            <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div>
                             <div class="col-6"><i class="fa fa-car" aria-hidden="true"></i> : 2 ที่จอดรถ</div>
                           </div>
                         </div>
                         <div class="col-sm-6">
                           <div class="row">
-                            <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div> 
+                            <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
                             <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                           </div>
                         </div>
@@ -122,14 +122,14 @@
 
 <!-- ================== Slider-SHOW ========================================= -->
 
-          
+
             <div class="col-sm-12">
               <form method="get" action="portfolio_all.php">
                  <button type="submit" class="btn-nockdown button-center-kasien mb-5 btn-top-home-responsiv my-3" style="margin: auto;">กลับไปดูผลงานทั้งหมด</button>
               </form>
-            </div>  
-          
-          </div> <!-- Container --> 
+            </div>
+
+          </div> <!-- Container -->
 
 
 
@@ -141,7 +141,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -159,7 +159,7 @@
   var thumbs = $("#thumbs");
   var totalslides = 10;
   var syncedSecondary = true;
-  
+
   bigimage.owlCarousel({
     items : 1,
     slideSpeed : 2000,
@@ -189,11 +189,11 @@
   function syncPosition(el) {
     //if loop is set to false, then you have to uncomment the next line
     //var current = el.item.index;
-    
+
     //to disable loop, comment this block
     var count = el.item.count-1;
     var current = Math.round(el.item.index - (el.item.count/2) - .5);
-    
+
     if(current < 0) {
       current = count;
     }
@@ -209,7 +209,7 @@
     var onscreen = thumbs.find('.owl-item.active').length - 1;
     var start = thumbs.find('.owl-item.active').first().index();
     var end = thumbs.find('.owl-item.active').last().index();
-    
+
     if (current > end) {
       thumbs.data('owl.carousel').to(current, 100, true);
     }
@@ -217,14 +217,14 @@
       thumbs.data('owl.carousel').to(current - onscreen, 100, true);
     }
   }
-  
+
   function syncPosition2(el) {
     if(syncedSecondary) {
       var number = el.item.index;
       bigimage.data('owl.carousel').to(number, 100, true);
     }
   }
-  
+
   thumbs.on("click", ".owl-item", function(e){
     e.preventDefault();
     var number = $(this).index();
