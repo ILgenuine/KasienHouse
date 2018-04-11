@@ -157,7 +157,7 @@ p {
     height: 23px;
 }
 .back-slider-home {
-    background-image: url(/NockDown/assets/images/bg-yellow.png);
+    background-image: url('../images/bg-yellow.png');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: 0ex;
@@ -525,7 +525,7 @@ li, a.nav-link-responsive {
     /* border-bottom: 3px solid; */
 }
 .background-broder {
-  	background-image: url('http://localhost/NockDown/assets/images/borderfooter.png');"
+  	background-image: url('../images/borderfooter.png');"
   	background-position: top center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1207,7 +1207,7 @@ h3.home-text-top-5 {
       padding-bottom: 20px;
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 100%;
       padding-top: 130px;
@@ -1229,7 +1229,7 @@ h3.home-text-top-5 {
       margin-right: -35px;
   }
   .back-slider-home {
-      background-image: url(/NockDown/assets/images/bg-yellow.png);
+      background-image: url('../images/bg-yellow.png');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -1515,7 +1515,7 @@ h3.home-text-top-5 {
      margin-left: 64px!important;
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 93rem;
       padding-top: 95px;
@@ -1739,7 +1739,7 @@ h3.home-text-top-5 {
       margin-right: 45px;
   }
   .back-slider-home {
-      background-image: url(/NockDown/assets/images/bg-yellow.png);
+      background-image: url('../images/bg-yellow.png');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -1971,7 +1971,7 @@ h3.home-text-top-5 {
       margin-left: 48px!important;
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 68rem;
       padding-top: 130px;
@@ -2429,7 +2429,7 @@ h3.home-text-top-5 {
       padding: 10px calc(57% - 50px);
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 68rem;
       padding-top: 130px;
@@ -2782,7 +2782,7 @@ h3.home-text-top-5 {
       margin-left: -2.5ex;
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 56rem;
       padding-top: 130px;
@@ -3105,7 +3105,7 @@ h3.home-text-top-5 {
       margin-left: 70px;
   }
   .background-broder {
-      background-image: url(http://localhost/NockDown/assets/images/borderfooter.png);
+      background-image: url('../images/borderfooter.png');
       background-repeat: no-repeat;
       background-size: 57rem;
       padding-top: 57px;
