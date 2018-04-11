@@ -40,7 +40,7 @@
             </div>
           </div>
           <div class="col-sm-6 col-12">
-            <div class="article-x article-img-title-responsive-up "><img src="assets/images/home/TIVE-EX.jpg" width="100%"></div>
+            <div class="article-x article-img-title-responsive-up "><img src="assets/images/article/TIVE-EX.jpg" width="100%"></div>
           </div>
         </div>
 
@@ -112,8 +112,8 @@
               </div>
 
               <div class="col-sm-12">
-                <div class="article-x article-y" style="color: #522980;">
-                  <p class="text-paragraph" style="font-weight: bold;">อย่างไรก็ดี แม้ว่าคุณออกแบบบ้านให้เหมาะกับการที่ผู้สุงอายุจะอาศัยได้อย่างสะดวกสบายแล้วก็ตาม แต่สุดท้ายแล้วก็อย่าลืมดูแลเอาใจใส่ด้านจิตใจของผู้สูงอายุด้วย เพียงเท่านี้ก็จะทำให้ทุกคนในครอบครัวสามารถอยู่ร่วมกันได้อย่างมีความสุข หวังว่าทุกท่านคงจะได้แนวคิดในการสร้างบ้านเพื่อเตรียมตัวเข้าสู่วัยสูงอายุได้อย่างมีคุณภาพ</p>
+                <div class="article-x article-y">
+                  <p class="text-paragraph text-article-normal">อย่างไรก็ดี แม้ว่าคุณออกแบบบ้านให้เหมาะกับการที่ผู้สุงอายุจะอาศัยได้อย่างสะดวกสบายแล้วก็ตาม แต่สุดท้ายแล้วก็อย่าลืมดูแลเอาใจใส่ด้านจิตใจของผู้สูงอายุด้วย เพียงเท่านี้ก็จะทำให้ทุกคนในครอบครัวสามารถอยู่ร่วมกันได้อย่างมีความสุข หวังว่าทุกท่านคงจะได้แนวคิดในการสร้างบ้านเพื่อเตรียมตัวเข้าสู่วัยสูงอายุได้อย่างมีคุณภาพ</p>
                 </div>
               </div>
 
