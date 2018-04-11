@@ -57,7 +57,7 @@
 
 
           <div class="container">
-            <div class="row">
+            <div class="row" data-aos="fade-up">
 <!-- ======================== Triangle ========================= -->
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -245,7 +245,7 @@
                           <div class="home-fix-img"><img src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Avatar" class="image-home"></div>
 
                           <div class="overlay">
-                            
+
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
                               </form>
@@ -268,7 +268,7 @@
                         <div class="home-hover">
                           <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
-                            
+
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
                               </form>
@@ -292,7 +292,7 @@
                         <div class="home-hover">
                           <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
-                            
+
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
                               </form>
@@ -316,7 +316,7 @@
                          <div class="home-hover">
                           <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
-                            
+
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
                               </form>
@@ -341,7 +341,7 @@
                         <div class="home-hover">
                           <div class="home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
                           <div class="overlay">
-                            
+
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
                               </form>
@@ -434,12 +434,12 @@
 
                     <div class="col-sm-6">
                       <div class="row text-purple home-line-top home-x-contact responsive-home">
-                        <div class="col-1"><i class="fa fa-home" aria-hidden="true"></i></div> 
+                        <div class="col-1"><i class="fa fa-home" aria-hidden="true"></i></div>
                         <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</p></div>
-                        
-                        <div class="col-1"><i class="flaticon-old-typical-phone"></i></div> 
+
+                        <div class="col-1"><i class="flaticon-old-typical-phone"></i></div>
                         <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">02-102-4291</p></div>
-                        <div class="col-1"><i class="fa fa-envelope" aria-hidden="true"></i></div> 
+                        <div class="col-1"><i class="fa fa-envelope" aria-hidden="true"></i></div>
                         <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">kesien_house@gmail.com</p></div>
                       </div>
                     </div>
