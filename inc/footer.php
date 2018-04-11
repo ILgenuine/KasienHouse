@@ -6,7 +6,7 @@
 	<div class="background-broder" data-aos="fade-in" data-aos-duration="2000">
 
 
-	<div class="container py-3 home-pup-3" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="1500">
+	<div class="container py-3 home-pup-3" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="700">
 		<div class="row">
 
 
