@@ -361,13 +361,13 @@ textarea.form-nockdown {
 .nockdown-slider-button-prev {
     margin-top: 215px;
     position: absolute;
-    right: 0px;
+    right: -25%;
 
 }
 .nockdown-slider-button-next {
     margin-top: 215px;
     position: absolute;
-    left: 0px;
+    left: -25%;
 }
 .btn-slider {
     display: inline-block;
