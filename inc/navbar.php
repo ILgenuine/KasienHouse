@@ -10,7 +10,7 @@
         <ul class="navbar-nav navbar-bottom">
 
           <li class="nav-item" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
-            <a class="nav-link nav-link-responsive active-menu" href="index-remaster.php">หน้าแรก</a>
+            <a class="nav-link nav-link-responsive active-menu" href="index.php">หน้าแรก</a>
           </li>
           <li class="nav-item" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400">
             <a class="nav-link nav-link-responsive" href="about-us.php">เกี่ยวกับเรา</a>
@@ -42,7 +42,7 @@
     </nav>
   </div>
   <div class="head-nav-logo-remaster" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1500" data-aos-delay="1000">
-      <a href="index-remaster.php">
+      <a href="index.php">
         <div class="color-logo-text logo-responsive" style="width: 160px;">
           <img src="assets/images/logo-kasien-house02.png" width="100%">
         </div>

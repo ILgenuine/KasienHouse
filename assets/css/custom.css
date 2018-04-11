@@ -166,7 +166,7 @@ p {
     height: 23px;
 }
 .back-slider-home {
-    background-image: url('../images/bg-yellow.png');
+    background-image: url('../images/bg-yellow.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: 0ex;
@@ -1301,7 +1301,7 @@ h3.home-text-top-5 {
       margin-right: -35px;
   }
   .back-slider-home {
-      background-image: url('../images/bg-yellow.png');
+      background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -1810,7 +1810,7 @@ h3.home-text-top-5 {
       margin-right: 45px;
   }
   .back-slider-home {
-      background-image: url('../images/bg-yellow.png');
+      background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
       background-size: 100%;
       background-position-y: 0px;
@@ -2440,7 +2440,7 @@ h3.home-text-top-5 {
       font-size: 22px;
   }
   .btn-top-home-responsive {
-     margin-top: 25px!important;
+     margin-top: 0px!important;
   }
   .home-line-top {
      margin-top: 15px;
@@ -2893,7 +2893,7 @@ h3.home-text-top-5 {
       margin-top: -20px;
   }
   .btn-top-home-responsive {
-      margin-top: 8.5ex!important;
+      margin-top: 40px!important;
       font-size: 13px;
   }
   /*===================== About ==========================*/
@@ -3035,6 +3035,15 @@ h3.home-text-top-5 {
   }
 }
 @media (max-width: 320px) {
+
+	.back-slider-home {
+	    height: 273px;
+	}
+
+	#home-setcollume {
+	    margin-bottom: 5rem;
+	}
+
   input,textarea {
       font-size: 13px!important;
   }
@@ -3112,7 +3121,7 @@ h3.home-text-top-5 {
       margin-left: 0px;
   }
   .btn-top-home-responsive {
-      margin-top: 55px!important;
+      margin-top: 30px!important;
   }
   .responsive-home {
       margin-right: 0px;
