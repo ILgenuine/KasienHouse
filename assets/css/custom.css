@@ -14,9 +14,9 @@ body {
 .home-haed-nockdown {
   z-index: 1;
   position:absolute;
-  top:-1px; 
-  height:100%; 
-  width:100%; 
+  top:-1px;
+  height:100%;
+  width:100%;
   background-color:#f4f4f2;
   -webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
   clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
@@ -845,8 +845,8 @@ h3.home-text-top-5 {
   }
   .home-btn-top-3{
     margin-top: 260px;
-    margin-left: -70px;
-    margin-right: -70px;
+    margin-left: -12px;
+    margin-right: -12px;
   }
   .home-fix-col-title {
     max-width: 50%;
@@ -2635,7 +2635,7 @@ h3.home-text-top-5 {
 /*=============== Header - footer =====================
 =======================================================*/
 	h3 {
-      font-size: 20px; 
+      font-size: 20px;
     }
   .text-size18px {
 	    font-size: 12px;
@@ -3166,7 +3166,7 @@ h3.home-text-top-5 {
       padding-bottom: 0ex;
   }
   #thumbs .home-detail-item {
-      height: 25px; 
+      height: 25px;
   }
   .portfilio-detail-border-left-new {
       margin-left: 6.5ex;
