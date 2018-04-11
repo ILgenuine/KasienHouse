@@ -14,7 +14,7 @@
         </div>
       </div>     -->
       <div class="row fix-row">
-        <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
+        <div class="slide-overlay home-haed-nockdown2">
         </div>  
       </div>
 <!-- ======================================Content========================================================= -->
@@ -36,10 +36,10 @@
 
                 <div class="py-5 container-top-up" style="background-color: #f4f4f2;">
                   <div class="row contact-row">
-                    <div class="col-sm-6 col-12">
-                      <div class="text-purple responsive-home">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</div>
+                    <div class="col-sm-6 col-12 coltact-col-respon">
+                      <div class="text-purple responsive-home contect-col-margin0">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</div>
 
-                      <div class="text-purple contact-icon-social"> 
+                      <div class="text-purple contact-icon-social contect-col-margin0"> 
                           <a href="https://www.facebook.com/" class="fa fa-facebook text-purple"></a>
                           <a href="https://twitter.com/" class="fa fa-twitter ml-3 text-purple"></a>
                           <a href="https://www.google.co.th/" class="fa fa-glide-g ml-3 text-purple" aria-hidden="true"></a> 
@@ -49,32 +49,39 @@
 
                     <div class="col-sm-6 col-12">
                       <div class="text-purple home-line-top responsive-home">
-                          <div class="mb-2"><i class="fa fa-home" aria-hidden="true"></i> บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</div>
-                          <div class="mb-2"><i class="flaticon-old-typical-phone"></i> 02-102-4291</div>
-                          <div class="mb-2"><i class="fa fa-envelope" aria-hidden="true"></i> kesien_house@gmail.com</div>
+                        <div class="row">
+                          <div class="col-1 mb-2 contect-col-margin0"><i class="fa fa-home" aria-hidden="true"></i></div> 
+                          <div class="col-11 contect-col-margin0">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</div>
+
+                          <div class="col-1 mb-2 contect-col-margin0"><i class="flaticon-old-typical-phone"></i></div> 
+                          <div class="col-11 contect-col-margin0 contact-responsive-tell">02-102-4291</div>
+
+                          <div class="col-1 mb-2 contect-col-margin0"><i class="fa fa-envelope" aria-hidden="true"></i></div> 
+                          <div class="col-11 contect-col-margin0">kesien_house@gmail.com</div>
+                        </div>
                       </div>
                     </div>
 
-                      <div class="col-sm-6 col-12">
+                      <div class="col-sm-6 col-12 coltact-col-respon">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="text" name="name" placeholder="ชื่อ - สกุล" />
                         </div>
                       </div>
 
-                      <div class="col-sm-6 col-12">
+                      <div class="col-sm-6 col-12 coltact-col-respon">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="email" name="email" placeholder="อีเมล" />
                         </div>
                       </div>
 
 
-                      <div class="col-sm-12">
+                      <div class="col-sm-12 coltact-col-respon">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="text" name="tital" placeholder="เรื่อง" />
                         </div>
                       </div>
 
-                      <div class="col-sm-12">
+                      <div class="col-sm-12 coltact-col-respon">
                         <div class="mt-5 responsive-home">
                           <textarea class="form-nockdown" placeholder="ข้อความ"></textarea>
                         </div>

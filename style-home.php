@@ -9,7 +9,7 @@
       <?php include_once('inc/navbar.php'); ?>
   
         <div class="row fix-row">
-          <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
+          <div class="slide-overlay home-haed-nockdown2">
           </div>  
         </div>
 <!-- ======================================Content========================================================= -->
@@ -29,7 +29,7 @@
 
 
 
-              <div class="" style="background-color: #f4f4f2;">
+              <div class="style-home-backgroun-set">
                 <div class="row fix-row">
 
                     <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
@@ -47,9 +47,9 @@
 
 
                           <div class="style-home-card-body">
-                              <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบบ้านโมร็อคโค</p></div>
-                              <div style="font-size: 14px;">
-                                <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                              <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบบ้านโมร็อคโค</h5></div>
+                              <div class="style-home-content-card">
+                                <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                               </div>
                           </div>
 
@@ -72,9 +72,9 @@
                           </div>
 
                           <div class="style-home-card-body">
-                              <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบบ้านญี่ปุ่น</p></div>
-                              <div style="font-size: 14px;">
-                                <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                              <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบบ้านญี่ปุ่น</h5></div>
+                              <div class="style-home-content-card">
+                                <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                               </div>
                           </div>
 
@@ -98,9 +98,9 @@
                           </div>
 
                           <div class="style-home-card-body">
-                            <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบบ้านอังกฤษ</p></div>
-                            <div style="font-size: 14px;">
-                              <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                            <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบบ้านอังกฤษ</h5></div>
+                            <div class="style-home-content-card">
+                              <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                             </div>
                           </div>
 
@@ -120,9 +120,9 @@
                           </div>
 
                           <div class="style-home-card-body">
-                            <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบบ้านไทยประยุกต์</p></div>
-                            <div style="font-size: 14px;">
-                              <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                            <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบบ้านไทยประยุกต์</h5></div>
+                            <div class="style-home-content-card">
+                              <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                             </div>
                           </div>
 
@@ -143,9 +143,9 @@
                           </div>
 
                           <div class="style-home-card-body">
-                            <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบโมเดิร์น</p></div>
-                            <div style="font-size: 14px;">
-                              <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                            <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบโมเดิร์น</h5></div>
+                            <div class="style-home-content-card">
+                              <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                             </div>
                           </div>
 
@@ -166,9 +166,9 @@
                           </div>
 
                           <div class="style-home-card-body">
-                            <div class="style-home-cradtitle"><p class="card-title home-fix-title">รูปแบบอื่นๆ</p></div>
-                            <div style="font-size: 14px;">
-                              <p class="card-text-nockdown">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
+                            <div class="style-home-cradtitle"><h5 class="card-title">รูปแบบอื่นๆ</h5></div>
+                            <div class="style-home-content-card">
+                              <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์</p>
                             </div>
                           </div>
                         </div>

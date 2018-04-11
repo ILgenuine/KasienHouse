@@ -405,7 +405,7 @@
 
 
 
-              <div class="home-py-5">
+              <div class="home-py-5" style="background-color: #f4f4f2;">
 
                 <div class="container">
                   <div class="row mb-5 mt-5">
@@ -473,7 +473,7 @@
 
               </div>
 
-
+              <div class="mb-5 home-border-radius"></div>
 
 <!-- ======================================================================================= -->
 
@@ -493,7 +493,7 @@
 
 <script type="text/javascript">
   //slideshow style interval
-var autoSwap = setInterval( swap,350000);
+var autoSwap = setInterval( swap,3500);
 
 //pause slideshow and reinstantiate on mouseout
 $('ul, span').hover(
@@ -501,7 +501,7 @@ $('ul, span').hover(
     clearInterval(autoSwap);
 },
   function () {
-   autoSwap = setInterval( swap,300000);
+   autoSwap = setInterval( swap,3500);
 });
 
 //global variables
