@@ -8,12 +8,12 @@
 
       <?php include_once('inc/navbar.php'); ?>
 
-    <section>
+    <section style="z-index: -2;position: relative;">
 
-      <div class="row fix-row home-re-barnd "style="z-index:-2;">
+      <div class="row fix-row home-re-barnd">
 
-            <div class="slide-overlay home-haed-nockdown">
-            </div>
+          <div class="slide-overlay" style="z-index: 2;">
+          </div>
 
             <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -66,7 +66,7 @@
               <div class="col-sm-12">
                   <div class="text-center text-purple home-top-up home-title-top20"><h2>Kasien House คืออะไร ?</h2></div>
                   <div class="text-center fix-content-col">
-                    <p class="letter-spacing-2">เป็นแหล่งรวมบ้านน๊อคดาวน์ หรือเรียบกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์ไม่ว่าจะเป็น สไตล์รีสอร์ท สไตร์ไทยหรือสไตล์บ้านน็อคดาวน์ดมเดิร์น เรารับสร้างบ้านน็อคดาวน์ราคาถูกไปจนถึงการให้คำปรึกษาเกี่ยวกับการรับสร้างบ้านน็อคดาวห์แบบครบวงจร</p>
+                    <p class="">เป็นแหล่งรวมบ้านน๊อคดาวน์ หรือเรียบกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์ไม่ว่าจะเป็น สไตล์รีสอร์ท สไตร์ไทยหรือสไตล์บ้านน็อคดาวน์ดมเดิร์น เรารับสร้างบ้านน็อคดาวน์ราคาถูกไปจนถึงการให้คำปรึกษาเกี่ยวกับการรับสร้างบ้านน็อคดาวห์แบบครบวงจร</p>
                   </div>
               </div>
 
@@ -95,7 +95,7 @@
                     <hr class="about-line-haeder">
                   </div>
                   <div class="text-white">
-                    <p class="letter-spacing-3">เป็นแหล่งรวมบ้านน็อคดาวน์ หรือเรียกอีกชื่อว่า บ้านสำเร็จรูปไม่ว่าจะเป็น การออกแบบบ้าน ขายบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตร์ไม่ว่าจะเเป็นสไตรืสอร์ท สไตร์ไทยหรือสไตร์บ้านน็อคดาวน์โมเดิร์น เรารับสร้างบ้านน็อคดาวน์ราคาถูก ไปจนถึงการให้คำปรึกษาเกี่ยวกับรับสร้างบ้านน็อคดาวน์แบบครบวงจร</p>
+                    <p class="">เป็นแหล่งรวมบ้านน็อคดาวน์ หรือเรียกอีกชื่อว่า บ้านสำเร็จรูปไม่ว่าจะเป็น การออกแบบบ้าน ขายบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตร์ไม่ว่าจะเเป็นสไตรืสอร์ท สไตร์ไทยหรือสไตร์บ้านน็อคดาวน์โมเดิร์น เรารับสร้างบ้านน็อคดาวน์ราคาถูก ไปจนถึงการให้คำปรึกษาเกี่ยวกับรับสร้างบ้านน็อคดาวน์แบบครบวงจร</p>
                   </div>
                 </div>
 
@@ -105,7 +105,7 @@
 
 
 <!-- ================================================================================================  style=""-->
-          <div class="container"  data-aos="zoom-in" data-aos-duration="1500" >
+          <div class="container"  data-aos="zoom-in" data-aos-duration="1500">
             <div class="row home-up-3">
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -115,7 +115,7 @@
               <div class="col-sm-12">
                   <div class="text-center text-purple home-title-top20"><h2>รูปแบบบ้าน</h2></div>
                   <div class="text-center fix-content-col">
-                    <p class="letter-spacing-1">เป็นแหล่งรวมบ้านน๊อคดาวน์ หรือเรียบกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์</p>
+                    <p class="">เป็นแหล่งรวมบ้านน๊อคดาวน์ หรือเรียบกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์</p>
                   </div>
               </div>
             </div>
@@ -433,25 +433,25 @@ s                                  </div>
                   <div class="row contect-home-nockdown-px-3">
                     <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                       <div class="text-purple home-x-2 home-x-2  responsive-home">
-                        <p class="letter-spacing-2">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</p>
+                        <p class="">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</p>
                       </div>
-                      <div class="text-purple home-x-2  mt-4 responsive-home">
-                        <a class="social-link" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                        <a class="social-link" href="https://twitter.com/"><i class="fa fa-twitter ml-3"></i></a>
-                        <a class="social-link" href="https://www.google.co.th/"><i class="fa fa-glide-g ml-3" aria-hidden="true"></i></a>
-                        <a class="social-link" href="https://www.instagram.com/"><i class="fa fa-instagram ml-3" aria-hidden="true"></i></a>
+                      <div class="home-x-2  mt-4 responsive-home">
+                        <a class="social-link" href="https://www.facebook.com/"><i class="fa fa-facebook color-text-icon-2e2d4e"></i></a>
+                        <a class="social-link" href="https://twitter.com/"><i class="fa fa-twitter ml-3 color-text-icon-2e2d4e"></i></a>
+                        <a class="social-link" href="https://www.google.co.th/"><i class="fa fa-pinterest-p ml-3 color-text-icon-2e2d4e" aria-hidden="true"></i></a>
+                        <a class="social-link" href="https://www.instagram.com/"><i class="fa fa-instagram ml-3 color-text-icon-2e2d4e" aria-hidden="true"></i></a>
                       </div>
                     </div>
 
                     <div class="col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                       <div class="row text-purple home-line-top home-x-contact responsive-home">
                         <div class="col-1"><i class="fa fa-home" aria-hidden="true"></i></div>
-                        <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</p></div>
+                        <div class="col-11 responsive-icon-contact"><p class="">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</p></div>
 
                         <div class="col-1"><i class="flaticon-old-typical-phone"></i></div>
-                        <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">02-102-4291</p></div>
+                        <div class="col-11 responsive-icon-contact"><p class="">02-102-4291</p></div>
                         <div class="col-1"><i class="fa fa-envelope" aria-hidden="true"></i></div>
-                        <div class="col-11 responsive-icon-contact"><p class="letter-spacing-2">kesien_house@gmail.com</p></div>
+                        <div class="col-11 responsive-icon-contact"><p class="">kesien_house@gmail.com</p></div>
                       </div>
                     </div>
 

@@ -3,10 +3,10 @@
 
 
 
-	<div class="background-broder">
+	<div class="background-broder" data-aos="fade-in" data-aos-duration="2000">
 
 
-	<div class="container py-3 home-pup-3">
+	<div class="container py-3 home-pup-3" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="700">
 		<div class="row">
 
 
@@ -24,7 +24,7 @@
 
 			<div class="col-sm-6 footer-responsive-colcenter">
 				<div class="footer-top-auto">
-					
+
 					<div class="row footer-icon-go-top">
 						<div class="col-sm-6 col-12">
 							<div class="color-logo-text text-size18px footer-contact-foot "><i class="flaticon-old-typical-phone" aria-hidden="true"></i> Office <a class="footer-texe-a">: 02-102-4291</a></div>
@@ -53,7 +53,7 @@
 	</div>
 
 
-	<div class="menu-footer-background ">
+	<div class="menu-footer-background">
 		<div class="container">
 			<ul class="nav justify-content-center menu-footer-auto">
 			  <li class="nav-item broder-left-right footer-menu-fix footer-manu-responsiveauto">

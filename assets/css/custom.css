@@ -34,6 +34,9 @@ body {
 .absolute {
   position: absolute;
 }
+.color-text-icon-2e2d4e {
+  color: #2e2d4e!important;
+}
 .home-title-top20 {
   margin-top: 20px;
 }
@@ -169,7 +172,7 @@ p {
 .back-slider-home {
     background-image: url('../images/bg-yellow.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position-y: 0ex;
     height: 625px;
 }
@@ -328,6 +331,15 @@ textarea.form-nockdown {
 .card-header{
 	font-weight: 400;
 }
+
+.slide-overlay{
+	z-index: -1;
+	position: absolute;
+	height: 100%;width: 100%;background-color: #f4f4f2;
+	-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
+	clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);
+}
+
 /*=====================================================================
 ============================= Navbar - Logo ===========================
 =======================================================================*/
@@ -513,11 +525,13 @@ a.dropdown-item:hover :after {
     margin: 0.125rem 0 0;
     font-size: 1rem;
     text-align: left;
-    background-color: #f4f4f2;
+    background-color: #FFF;
     background-clip: padding-box;
     border: 1px solid rgb(244, 244, 242, 0);
     border-radius: 0px;
+
 }
+
 
 .nav-text {
 	font-weight: 400;
@@ -1314,7 +1328,7 @@ h3.home-text-top-5 {
   .back-slider-home {
       background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
-      background-size: 100%;
+      background-size: cover;
       background-position-y: 0px;
       height: 515px;
   }
@@ -1703,7 +1717,7 @@ h3.home-text-top-5 {
       margin-bottom: 2ex;
   }*/
   .card-text-nockdown:last-child {
-      margin-bottom: 5px;
+      margin-bottom: -20px;
       overflow: hidden;
       height: 45px;
       color: #52297f;
@@ -1823,7 +1837,7 @@ h3.home-text-top-5 {
   .back-slider-home {
       background-image: url('../images/bg-yellow.jpg');
       background-repeat: no-repeat;
-      background-size: 100%;
+      background-size: cover;
       background-position-y: 0px;
       height: 381px;
   }
@@ -2158,7 +2172,7 @@ h3.home-text-top-5 {
       margin-left: -17px;
   }
   .style-home-fix-img {
-      height: 200px;
+      height: 220px;
   }
   .style-mx-auto {
       margin-top: 45px;
@@ -2454,7 +2468,7 @@ h3.home-text-top-5 {
      margin-top: 0px!important;
   }
   .home-line-top {
-      margin-top: 40px;
+     margin-top: 15px;
   }
   textarea.form-nockdown {
       height: 125px;
@@ -2763,6 +2777,10 @@ h3.home-text-top-5 {
   .coltact-col-respon {
       padding-right: 5px;
       padding-left: 5px;
+  }
+  .contact-icon-social {
+      font-size: 20px;
+      margin-top: 15px;
   }
 }
 @media (max-width: 375px) {

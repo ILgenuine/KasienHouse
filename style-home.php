@@ -36,7 +36,7 @@
                         <div class="stylehome-card style-mx-auto">
                           <div class="home-hover">
                             <div class="style-home-fix-img">
-                              <img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap">
+                              <img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE-EX-1.jpg" alt="Card image cap">
                             </div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
@@ -62,7 +62,7 @@
                         <div class="stylehome-card style-mx-auto">
                           <div class="home-hover">
                             <div class="style-home-fix-img">
-                              <img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap">
+                              <img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap">
                             </div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
@@ -88,7 +88,7 @@
 
                           <div class="home-hover">
                             <div class="style-home-fix-img">
-                              <img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap">
+                              <img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap">
                             </div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
@@ -111,7 +111,7 @@
                     <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                         <div class="stylehome-card style-mx-auto">
                           <div class="home-hover">
-                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -134,7 +134,7 @@
                         <div class="stylehome-card style-mx-auto">
 
                           <div class="home-hover">
-                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE EX แบบที่ 4.jpg" alt="Card image cap"></div>
+                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" alt="Card image cap"></div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
@@ -157,7 +157,7 @@
                         <div class="stylehome-card style-mx-auto">
 
                           <div class="home-hover">
-                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE EX 1.jpg" alt="Card image cap"></div>
+                            <div class="style-home-fix-img"><img class="card-img-top-nockdown image-home" src="assets/images/modern house/TIVE-EX-1.jpg" alt="Card image cap"></div>
                             <div class="overlay">
                               <form method="get" action="home_detail.php">
                                   <button type="submit" class="text btn-hover-home btn-default">ดูรายละเอียด</button>
