@@ -28,14 +28,14 @@
 
               <div class="carousel-inner header-carousel" width="100%">
                 <div class="carousel-item active">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                   <!-- <img width="100%" src="assets/images/banner/bandner.jpg" alt="Chicago"> -->
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/images/morocco house type 2/slide1.jpg" alt="Los Angeles" class="img-fluid">
+                  <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                 </div>
               </div>
 

@@ -77,10 +77,10 @@
 
                           <div id="big" class="owl-carousel owl-theme">
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-4.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/English house/ELEVATION-3.jpg">
                             </div>
                             <div class="home-detail-item">
                               <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
@@ -98,13 +98,13 @@
 
                           <div id="thumbs" class="owl-carousel owl-theme">
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-4.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/English house/ELEVATION-3.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-2.jpg">
                             </div>
                             <div class="home-detail-item">
                               <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
