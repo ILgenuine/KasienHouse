@@ -435,11 +435,11 @@ s                                  </div>
                       <div class="text-purple home-x-2 home-x-2  responsive-home">
                         <p class="letter-spacing-2">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</p>
                       </div>
-                      <div class="text-purple home-x-2  mt-4 responsive-home">
-                        <a class="social-link" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                        <a class="social-link" href="https://twitter.com/"><i class="fa fa-twitter ml-3"></i></a>
-                        <a class="social-link" href="https://www.google.co.th/"><i class="fa fa-glide-g ml-3" aria-hidden="true"></i></a>
-                        <a class="social-link" href="https://www.instagram.com/"><i class="fa fa-instagram ml-3" aria-hidden="true"></i></a>
+                      <div class="home-x-2  mt-4 responsive-home">
+                        <a class="social-link" href="https://www.facebook.com/"><i class="fa fa-facebook color-text-icon-2e2d4e"></i></a>
+                        <a class="social-link" href="https://twitter.com/"><i class="fa fa-twitter ml-3 color-text-icon-2e2d4e"></i></a>
+                        <a class="social-link" href="https://www.google.co.th/"><i class="fa fa-pinterest-p ml-3 color-text-icon-2e2d4e" aria-hidden="true"></i></a>
+                        <a class="social-link" href="https://www.instagram.com/"><i class="fa fa-instagram ml-3 color-text-icon-2e2d4e" aria-hidden="true"></i></a>
                       </div>
                     </div>
 
