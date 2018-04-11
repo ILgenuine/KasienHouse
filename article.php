@@ -8,11 +8,11 @@
 
       <?php include_once('inc/navbar.php'); ?>
 
-<!--       <div class="row fix-row">
+      <!--<div class="row fix-row">
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>   -->
+      </div>-->
       <div class="row fix-row">
         <div class="slide-overlay">
         </div>

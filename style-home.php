@@ -7,10 +7,10 @@
   <body>
 
       <?php include_once('inc/navbar.php'); ?>
-
+  
         <div class="row fix-row">
-          <div class="slide-overlay">
-          </div>
+          <div class="slide-overlay home-haed-nockdown2">
+          </div>  
         </div>
 <!-- ======================================Content========================================================= -->
           <div class="container">
@@ -183,7 +183,7 @@
 
 
             </div>
-          </div> <!-- Container -->
+          </div> <!-- Container --> 
 
 
 
@@ -195,7 +195,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?>
+    <?php include_once('inc/footer.php'); ?> 
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -207,3 +207,4 @@
 
 
 <!-- ====================== Script Slider ============================== -->
+
