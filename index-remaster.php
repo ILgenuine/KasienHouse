@@ -124,14 +124,14 @@
 <!-- ================================== Slider Full-Sceen ========================================================== -->
           <div class="my-5 back-slider-home">
                 <div class="row fix-row">
-                  <div class="col-2" data-aos="slide-right" data-aos-duration="1500" data-aos-anchor-placement="top-center">
+                  <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
                      <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button" id="prev">
                       <i class="fa fa-chevron-left" aria-hidden="true"></i>
                     </button>
                   </div>
 
 
-                    <div class="col-8"  data-aos="zoom-in" data-aos-duration="1500" data-aos-anchor-placement="top-center">
+                    <div class="col-8"  data-aos="zoom-in" data-aos-duration="1500">
                       <section class="section-slider">
                           <ul class="carousel">
                             <li class="items main-pos slider-li" id="1">
@@ -210,7 +210,7 @@
 
 
 
-                    <div class="col-2" data-aos="slide-left" data-aos-duration="1500" data-aos-anchor-placement="top-center">
+                    <div class="col-2" data-aos="slide-right" data-aos-duration="1500">
                       <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                     </div>
 
@@ -382,7 +382,7 @@
                     </div>
                   </div>
 
-                  <div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1500"  data-aos-delay="800">
+                  <div class="col-sm-12">
                       <form method="get" action="home_detail.php">
                         <button type="submit" class="btn-nockdown button-center-kasien mb-5 btn-top-home-responsiv">ดูผลงานทั้งหมด</button>
                       </form>
@@ -405,9 +405,9 @@
 
 
 
-              <div class="home-py-5">
+              <div class="home-py-5 home-backgroun-contact">
 
-                <div class="container">
+                <div class="container mb-5">
                   <div class="row mb-5 mt-5">
                     <div class="col-12 mb-2 align-center">
                       <img width="150px" height="" src="assets/images/triangle.png">
@@ -473,6 +473,8 @@
 
               </div>
 
+
+<div class="mb-5 home-border-radius"></div>
 
 
 <!-- ======================================================================================= -->
