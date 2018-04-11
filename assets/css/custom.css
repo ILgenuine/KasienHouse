@@ -10,6 +10,7 @@ body {
   height: 100%;
 	font-family: 'kanit';
 	font-size: 16px;
+  font-weight: 300;
 }
 .home-haed-nockdown {
   z-index: 1;
@@ -272,8 +273,7 @@ textarea.form-nockdown {
   color: #522980;
 }
 .background-color {
-  background-color: #17073ee8;
-  margin-bottom: 10ex;
+  background-color: #3c3963;
 }
 
 .home-line-top {
@@ -901,17 +901,20 @@ h3.home-text-top-5 {
 }
 .about-set-collume {
     position: absolute;
-    margin-left: 12rem;
-    margin-right: 6rem;
+    margin-left: 10rem;
+    margin-right: 5rem;
     top: 50%;
     transform: translate(0%, -50%);
 }
 .about-set-collume2 {
     position: absolute;
-    margin-left: 6rem;
-    margin-right: 12rem;
+    margin-left: 5rem;
+    margin-right: 10rem;
     top: 50%;
     transform: translate(0%, -50%);
+}
+.about-box{
+    margin: 50px 0px; 
 }
 /*========================= Contact ======================*/
 .contact-row {

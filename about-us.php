@@ -42,7 +42,7 @@
           </div> <!-- Container -->
 <!-- ======================================================================================== -->
 
-          <div class="background-color about-contect-margin-top" style="margin-top: 20ex;">
+          <div class="background-color about-box">
             <div class="row fix-row">
               <div class="col-12 col-sm-6">
                 <div class="about-set-collume">
@@ -88,7 +88,7 @@
 
 
 
-          <div class="background-color about-contect-margin-top" style="margin-top: 20ex;">
+          <div class="background-color about-box">
             <div class="row fix-row">
               <div class="col-sm-6">
                 <div class="about-set-row"><img src="assets/images/home/homecontent.jpg" style="width: 100%;"></div>
