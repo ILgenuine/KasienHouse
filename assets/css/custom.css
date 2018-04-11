@@ -522,7 +522,9 @@ a.dropdown-item:hover :after {
     background-clip: padding-box;
     border: 1px solid rgb(244, 244, 242, 0);
     border-radius: 0px;
+
 }
+
 
 .nav-text {
 	font-weight: 400;

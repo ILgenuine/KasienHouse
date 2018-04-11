@@ -8,14 +8,14 @@
 
       <?php include_once('inc/navbar.php'); ?>
 
-    <section>
+    <section style="z-index: -2;position: relative;">
 
       <div class="row fix-row home-re-barnd">
 
-        <div class="slide-overlay">
-        </div>
+          <div class="slide-overlay" style="z-index: 2;">
+          </div>
 
-            <div id="demo" class="carousel slide" data-ride="carousel" style="z-index: -2;position: relative;">
+            <div id="demo" class="carousel slide" data-ride="carousel">
 
               <!-- Indicators -->
               <ul class="carousel-indicators">
