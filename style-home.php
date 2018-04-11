@@ -7,13 +7,13 @@
   <body>
 
       <?php include_once('inc/navbar.php'); ?>
-
+  
         <div class="row fix-row">
-          <div class="slide-overlay">
-          </div>
+          <div class="slide-overlay home-haed-nockdown2">
+          </div>  
         </div>
 <!-- ======================================Content========================================================= -->
-          <div class="container"  style="z-index: -1;position: relative;">
+          <div class="container">
             <div class="row style-home-up-3">
               <div class="col-12 align-center" style="margin-top: 130px;">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -183,7 +183,7 @@
 
 
             </div>
-          </div> <!-- Container -->
+          </div> <!-- Container --> 
 
 
 
@@ -195,7 +195,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?>
+    <?php include_once('inc/footer.php'); ?> 
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -207,3 +207,4 @@
 
 
 <!-- ====================== Script Slider ============================== -->
+
