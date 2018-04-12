@@ -18,19 +18,19 @@
           </div>
         </div>
 <!-- ======================================Content========================================================= -->
-      <div class="container"  style="position: relative;">
+      <div class="container">
         <div class="row">
           <div class="col-12 align-center" style="margin-top: 130px;">
             <img width="150px" height="" src="assets/images/triangle.png">
           </div>
 
 
-          <div class="col-sm-12">
+          <div class="col-sm-12" >
             <div class="text-center text-purple about-titel-top"><h2 class="portfolio-fontsize-responsive ">ผลงานทั้งหมด</h2></div>
           </div>
 
 
-            <div class="portfolio-all-background">
+            <div class="portfolio-all-background" >
               <div class="row fix-row">
 <!-- =============================================== Columns - 1 ================================================================ -->
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">

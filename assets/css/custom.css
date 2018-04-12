@@ -10,6 +10,7 @@ body {
   height: 100%;
 	font-family: 'kanit';
 	font-size: 16px;
+  font-weight: 300;
 }
 .home-haed-nockdown {
   z-index: 1;
@@ -22,7 +23,7 @@ body {
   clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);
 }
 .home-haed-nockdown2 {
-  z-index: 1;
+  z-index: -1;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -277,6 +278,10 @@ textarea.form-nockdown {
     text-align: justify;
     text-indent: 65px;
 }
+.text-article-normal{
+    font-weight: normal;
+    color: #522980;
+}
 /*h2 {
   margin-left: -20px;
 }*/
@@ -284,8 +289,7 @@ textarea.form-nockdown {
   color: #522980;
 }
 .background-color {
-  background-color: #17073ee8;
-  margin-bottom: 10ex;
+  background-color: #3c3963;
 }
 
 .home-line-top {
@@ -500,7 +504,7 @@ a.dropdown-item:hover :after {
 	top:10px;
   margin-top: 5px;
   color: #8b1292!important;
-	z-index: 2;
+	z-index: 5;
 }
 
 .header-carousel{
@@ -554,6 +558,7 @@ li, a.nav-link-responsive {
     background-size: 100%;
     padding-top: 130px;
     background-position-y: 0ex;
+    margin-top: 80px;
 }
 .background-home {
   	/*background-image: url('http://localhost/NockDown/assets/images/222.jpg');"*/
@@ -564,13 +569,13 @@ li, a.nav-link-responsive {
     margin-top: -80px;
 }
 .color-logo-text {
-    color: #2e2d4e;
+    color: #522980;
   }
 .flaticon-technology {
   margin-left: -22px;
 }
 li.broder-left-right  {
-  border-right: 1px solid #8b1292;
+  border-right: 1px solid #522980;
 }
 .menu-footer-background {
 	background-color: #e4e4e4;
@@ -924,17 +929,20 @@ h3.home-text-top-5 {
 }
 .about-set-collume {
     position: absolute;
-    margin-left: 12rem;
-    margin-right: 6rem;
+    margin-left: 10rem;
+    margin-right: 5rem;
     top: 50%;
     transform: translate(0%, -50%);
 }
 .about-set-collume2 {
     position: absolute;
-    margin-left: 6rem;
-    margin-right: 12rem;
+    margin-left: 5rem;
+    margin-right: 10rem;
     top: 50%;
     transform: translate(0%, -50%);
+}
+.about-box{
+    margin: 50px 0px;
 }
 /*========================= Contact ======================*/
 .contact-row {
@@ -977,7 +985,7 @@ h3.home-text-top-5 {
     font-weight: 300;
     text-align: center;
     flex: 0 0 100%;
-    max-width: 70%;
+    padding: 0px 75px;
 }
 .article-row {
     margin-right: 20px;
@@ -1124,7 +1132,7 @@ h3.home-text-top-5 {
 }
 /*Slider-SHOW CSS*/
 .outer { margin: 0px auto; max-width:800px;}
-#big .home-detail-item { padding-top: 10ex; margin:2px; color: #FFF; border-radius: 3px; text-align: center; }
+#big .home-detail-item { padding-top: 45px; margin:2px; color: #FFF; border-radius: 3px; text-align: center; }
 #thumbs .home-detail-item  {  height: 65px; line-height:70px; padding: 0px; margin:2px; color: #FFF; border-radius: 3px; text-align: center; cursor: pointer; }
 #thumbs .home-detail-item h1 { font-size: 18px; }
 #thumbs .current .home-detail-item { }
@@ -1155,7 +1163,7 @@ h3.home-text-top-5 {
     margin: 3ex 3ex;
 }
 .portfolio-detail-ma-2 {
-    margin: 2ex 0ex;
+    margin: 15px 15px;
 }
 
 /*================== Portfolio detail ====================*/
@@ -1163,7 +1171,7 @@ h3.home-text-top-5 {
     margin: -60px auto;
     max-width: 986px;
 }
-#big .portfolio-detail-item { padding-top: 10ex; margin:2px; color: #FFF; border-radius: 3px; text-align: center; }
+#big .portfolio-detail-item { padding-top: 80px; margin:2px; color: #FFF; border-radius: 3px; text-align: center; }
 #thumbs .portfolio-detail-item  {
     height: 105px;
     line-height: 70px;
@@ -1172,7 +1180,7 @@ h3.home-text-top-5 {
     color: #FFF;
     text-align: center;
     cursor: pointer;
-    margin-bottom: 10ex;
+    margin-bottom: 70px;
     overflow: hidden;
 }
 #thumbs .portfolio-detail-item h1 { font-size: 18px; }
@@ -1218,6 +1226,9 @@ h3.home-text-top-5 {
 .home-detail-title-slide {
       font-size: 25px;
       font-weight: 450;
+}
+.home-detail-head-text{
+    margin-top: 15px;
 }
 /*=================== portfolio-all ==================*/
 .portfolio-all-fix-img {

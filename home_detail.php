@@ -18,7 +18,7 @@
           </div>
         </div>
 <!-- ======================================Content========================================================= -->
-          <div class="container" style="z-index: -1;position: relative;">
+          <div class="container">
             <div class="row style-home-up-3">
               <div class="col-12 align-center" style="margin-top: 130px;">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -68,7 +68,7 @@
                         <p class="text-purple home-detail-title-slide">รูปแบบบ้านอังกฤษ En1</p>
                       </div>
                     <div class="col-sm-12">
-                      <div style="background-color: #000;"><img src="assets/images/model-01.png" width="100%"></div>
+                      <div style="background-color: #000;"><img src="assets/images/model-house-type.jpg" width="100%"></div>
                     </div>
 
                     <div class="col-sm-12">
@@ -83,16 +83,22 @@
                               <img src="assets/images/English house/ELEVATION-3.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-2.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-1.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/English house/PLAN.png">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/English house/TIVE-BED-ROOM.jpg">
+                            </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/English house/TIVE-LIVING-ROOM.jpg">
+                            </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/English house/TIVE-EX.jpg">
                             </div>
                           </div>
 
@@ -107,13 +113,19 @@
                               <img src="assets/images/English house/ELEVATION-2.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/English house/ELEVATION-1.jpg">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/English house/PLAN.png">
                             </div>
                             <div class="home-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/English house/TIVE-BED-ROOM.jpg">
+                            </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/English house/TIVE-LIVING-ROOM.jpg">
+                            </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/English house/TIVE-EX.jpg">
                             </div>
                           </div>
 
@@ -131,10 +143,10 @@
 
                          <div style="color:#3e2a6d;"><p class="text-paragraph text-purple"></p>
 
-                            <div style="margin-top: 5%;"><b class="">รูปแบบบ้านทรงไทย</b></div>
+                            <div class="home-detail-head-text"><b class="">รูปแบบบ้านทรงไทย</b></div>
                             <div><p>บ้านที่ออกแบบบจากคอนเซ็ปต์ความเป็นอันหนึ่งอันเดียวกัน มีการจัดระเบียบของรูปทรง จังหวะ และเนื้อหาให้เกิดดุลยภาพ เข้าถึงง่ายในด้านพลังงานและการใช้งานตัวอาคาร มีการออกแบบให้ประหยัดพลังงานด้วยช่องระบายอากาศ ทำให้ตัวบ้านมีความหมุนเวียนของระบบอากาศที่เป็นธรรมชาติ</p></div>
                             <div><p>ลักษณะของบ้าน : บ้านชั้นเดียว N-01</p></div>
-                            <div style="margin-top: 5%;"><b>ส่วนประกอบของบ้าน</b></div>
+                            <div class="home-detail-head-text"><b>ส่วนประกอบของบ้าน</b></div>
                             <div class="home-detail-col-porfile">
                               <div class="row">
                                 <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div>
@@ -144,11 +156,11 @@
                             <div class="home-detail-col-porfile">
                               <div class="row">
                                 <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
-                                <div class="col-6"><i class="fa fa-archive" aria-hidden="true"></i>  : 105.45 ตรม.</div>
+                                <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                               </div>
                             </div>
                             <div class="portfolio-detail-ma-2">
-                              <p style="color: gray;">14/01/2561</p>
+                              <p style="color: gray; font-size: 14px;">14/01/2561</p>
                             </div>
 
                          </div>
@@ -219,7 +231,7 @@
     })
     .owlCarousel({
     items : 6,
-    dots: true,
+    dots: false,
     smartSpeed: 200,
     slideSpeed : 500,
     slideBy: totalslides,

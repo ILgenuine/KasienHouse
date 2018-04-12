@@ -18,7 +18,7 @@
         </div>
       </div>
 <!-- ======================================Content========================================================= -->
-          <div class="container"  style="z-index: -1;position: relative;">
+          <div class="container">
             <div class="row style-home-up-3">
               <div class="col-12 align-center" style="margin-top: 130px;">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -45,43 +45,43 @@
                         <div class="portfolio-detail-outer">
                           <div id="big" class="owl-carousel owl-theme">
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/modern house  type/PLAN-แบบที่-5.png">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-IN-2-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-IN-2-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/modern house  type/PLAN-แบบที่-5.png">
                             </div>
                           </div>
 
                           <div id="thumbs" class="owl-carousel owl-theme">
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/modern house  type/PLAN-แบบที่-5.png">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE IN 2 แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-IN-2-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-IN-2-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/TIVE EX แบบที่ 5.jpg">
+                              <img src="assets/images/modern house  type/TIVE-EX-แบบที่-5.jpg">
                             </div>
                             <div class="portfolio-detail-item">
-                              <img src="assets/images/modern house  type/PLAN แบบที่ 5.png">
+                              <img src="assets/images/modern house  type/PLAN-แบบที่-5.png">
                             </div>
                           </div>
                         </div>
@@ -105,7 +105,7 @@
                         <div class="col-sm-6">
                           <div class="row">
                             <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
-                            <div class="col-6"><i class="fa fa-archive" aria-hidden="true"></i>  : 105.45 ตรม.</div>
+                            <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                           </div>
                         </div>
                         <div class="portfolio-detail-ma-2">

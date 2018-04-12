@@ -20,7 +20,7 @@
 <!-- ======================================Content========================================================= -->
 
 
-          <div class="container" style="z-index: -1;position: relative;">
+          <div class="container">
             <div class="row">
               <div class="col-12 align-center" style="margin-top: 130px;">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -35,14 +35,14 @@
               </div>
               <div class="col-sm-12">
                   <div class="video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
-                      <video src="assets/images/video/video2.mp4"></video>
+                      <iframe width="100%" height="60%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                  </div>
               </div>
             </div>
           </div> <!-- Container -->
 <!-- ======================================================================================== -->
 
-          <div class="background-color about-contect-margin-top" style="margin-top: 20ex;">
+          <div class="background-color about-box">
             <div class="row fix-row">
               <div class="col-12 col-sm-6">
                 <div class="about-set-collume">
@@ -67,7 +67,7 @@
 
           <div class="container">
             <div class="row">
-              <div class="col-12 mt-5 mb-2 align-center">
+              <div class="col-12 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png"></img>
               </div>
               <div class="col-sm-12">
@@ -88,7 +88,7 @@
 
 
 
-          <div class="background-color about-contect-margin-top" style="margin-top: 20ex;">
+          <div class="background-color about-box">
             <div class="row fix-row">
               <div class="col-sm-6">
                 <div class="about-set-row"><img src="assets/images/home/homecontent.jpg" style="width: 100%;"></div>
