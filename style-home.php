@@ -7,20 +7,20 @@
   <body>
 
       <?php include_once('inc/navbar.php'); ?>
-  
+
         <div class="row fix-row">
           <div class="slide-overlay home-haed-nockdown2">
-          </div>  
+          </div>
         </div>
 <!-- ======================================Content========================================================= -->
           <div class="container">
             <div class="row style-home-up-3">
-              <div class="col-12 align-center" style="margin-top: 130px;">
+              <div class="col-12 align-center" style="margin-top: 130px;" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
                 <img width="150px" height="" src="assets/images/triangle.png">
               </div>
 
 
-              <div class="col-sm-12">
+              <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
                   <div class="text-center text-purple"><h2 class="style-home-haed-title">รูปแบบบ้านทั้งหมด</h2></div>
                   <div class="text-center fix-content-col">
                     <p></p>
@@ -29,7 +29,7 @@
 
 
 
-              <div class="style-home-backgroun-set">
+              <div class="style-home-backgroun-set" data-aos="slide-up" data-aos-duration="1500">
                 <div class="row fix-row">
 
                     <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
@@ -182,7 +182,7 @@
 
 
             </div>
-          </div> <!-- Container --> 
+          </div> <!-- Container -->
 <!-- ======================================================================================= -->
     <div class="mb-5"></div>
 
@@ -191,7 +191,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 

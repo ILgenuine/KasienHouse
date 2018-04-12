@@ -20,10 +20,10 @@
 <!-- ======================================Content========================================================= -->
           <div class="container">
             <div class="row style-home-up-3">
-              <div class="col-12 align-center" style="margin-top: 130px;">
+              <div class="col-12 align-center" style="margin-top: 130px;" data-aos="fade-up" data-aos-duration="1500">
                 <img width="150px" height="" src="assets/images/triangle.png">
               </div>
-              <div class="col-sm-12">
+              <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500">
                   <div class="text-center text-purple"><h2 class="style-home-haed-title">รูปแบบบ้านทั้งหมด</h2></div>
                   <div class="text-center fix-content-col">
                     <p></p>
@@ -35,7 +35,7 @@
             <div class="row">
               <div class="col-lg-4">
 
-                <div class="home-detail-ma-auto">
+                <div class="home-detail-ma-auto"  data-aos="fade-right" data-aos-duration="1500">
                   <div style="background-color: #17073ee8;">
                     <div class="text-white home-detai-submenul">รูปแบบบ้านของ Kasien House</div>
                   </div>
@@ -61,17 +61,17 @@
 
 
 
-                <div style="background-color: #f4f4f2;height: 100%;">
+                <div style="background-color: #f4f4f2;height: 100%;" >
                   <div class="col-sm-12">
                     <div class="home-detail-p-auto">
-                      <div style="margin-left: 12px;margin-bottom: 30px;margin-top: 15px;">
+                      <div style="margin-left: 12px;margin-bottom: 30px;margin-top: 15px;" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="600">
                         <p class="text-purple home-detail-title-slide">รูปแบบบ้านอังกฤษ En1</p>
                       </div>
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1500"  data-aos-delay="600">
                       <div style="background-color: #000;"><img src="assets/images/model-house-type.jpg" width="100%"></div>
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="600">
 
                         <div class="outer">
 
@@ -138,7 +138,7 @@
 
 
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600">
                       <div>
 
                          <div style="color:#3e2a6d;"><p class="text-paragraph text-purple"></p>

@@ -23,10 +23,10 @@
 
           <div class="container">
               <div class="row">
-                <div class="col-12 align-center" style="margin-top: 130px;">
+                <div class="col-12 align-center" style="margin-top: 130px;"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
                   <img width="150px" height="" src="assets/images/triangle.png">
                 </div>
-                <div class="col-sm-12">
+                <div class="col-sm-12"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
                   <div class="text-center text-purple about-titel-top contact-titel-top" style="z-index: -1;position: relative;"><h2>ติดต่อเรา</h2></div>
                 </div>
               </div>
@@ -37,9 +37,9 @@
                 <div class="py-5 container-top-up" style="background-color: #f4f4f2;">
                   <div class="row contact-row">
                     <div class="col-sm-6 col-12 coltact-col-respon">
-                      <div class="text-purple responsive-home contect-col-margin0">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</div>
+                      <div class="text-purple responsive-home contect-col-margin0" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16</div>
 
-                      <div class="text-purple contact-icon-social contect-col-margin0">
+                      <div class="text-purple contact-icon-social contect-col-margin0" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                           <a href="https://www.facebook.com/" class="fa fa-facebook color-text-icon-2e2d4e"></a>
                           <a href="https://twitter.com/" class="fa fa-twitter ml-3 color-text-icon-2e2d4e"></a>
                           <a href="https://www.pinterest.com/" class="fa fa-pinterest-p ml-3 color-text-icon-2e2d4e" aria-hidden="true"></a>
@@ -48,7 +48,7 @@
                     </div>
 
                     <div class="col-sm-6 col-12">
-                      <div class="text-purple home-line-top responsive-home">
+                      <div class="text-purple home-line-top responsive-home" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500">
                         <div class="row">
                           <div class="col-1 mb-2 contect-col-margin0"><i class="fa fa-home" aria-hidden="true"></i></div>
                           <div class="col-11 contect-col-margin0">บ้านเลขที่ 11/1 หมู่6 ตำบลหนองหลุม อำเภอวชิรบารมี จังหวัดพิจิตร 66220</div>
@@ -62,33 +62,33 @@
                       </div>
                     </div>
 
-                      <div class="col-sm-6 col-12 coltact-col-respon">
+                      <div class="col-sm-6 col-12 coltact-col-respon" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="700">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="text" name="name" placeholder="ชื่อ - สกุล" />
                         </div>
                       </div>
 
-                      <div class="col-sm-6 col-12 coltact-col-respon">
+                      <div class="col-sm-6 col-12 coltact-col-respon" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="700">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="email" name="email" placeholder="อีเมล" />
                         </div>
                       </div>
 
 
-                      <div class="col-sm-12 coltact-col-respon">
+                      <div class="col-sm-12 coltact-col-respon" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="900">
                         <div class="mt-5 responsive-home">
                           <input class="form-nockdown" type="text" name="tital" placeholder="เรื่อง" />
                         </div>
                       </div>
 
-                      <div class="col-sm-12 coltact-col-respon">
+                      <div class="col-sm-12 coltact-col-respon" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1200">
                         <div class="mt-5 responsive-home">
                           <textarea class="form-nockdown" placeholder="ข้อความ"></textarea>
                         </div>
                       </div>
                    </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1200">
                       <button class="btn-nockdown button-center-kasien" type="button" style="width: 190px;margin: auto;">ติดต่อเรา</button>
                     </div>
 

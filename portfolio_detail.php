@@ -20,10 +20,10 @@
 <!-- ======================================Content========================================================= -->
           <div class="container">
             <div class="row style-home-up-3">
-              <div class="col-12 align-center" style="margin-top: 130px;">
+              <div class="col-12 align-center" style="margin-top: 130px;"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
                 <img width="150px" height="" src="assets/images/triangle.png">
               </div>
-              <div class="col-sm-12">
+              <div class="col-sm-12"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
                   <div class="text-center text-purple"><h2 class="style-home-haed-title">ผลงานของเรา</h2></div>
                   <div class="text-center fix-content-col">
                     <p></p>
@@ -34,14 +34,14 @@
             <div style="background-color: #f4f4f2;">
               <div class="row">
                 <div class="portfilio-detail-m-auto">
-                  <div class="col-sm-12">
+                  <div class="col-sm-12"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600">
                     <div class="portfolio-detail-ma-2">
                       <h3 class="text-purple">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับ ครอบครัวใหญ่</h3>
                     </div>
                   </div>
 
   <!-- ====================== SLEDER SHOW GALLERY ==================================== -->
-                  <div class="col-sm-12">
+                  <div class="col-sm-12"  data-aos="zoom-in" data-aos-duration="1500"  data-aos-delay="600">
                         <div class="portfolio-detail-outer">
                           <div id="big" class="owl-carousel owl-theme">
                             <div class="portfolio-detail-item">
@@ -89,26 +89,28 @@
 <!-- ============================= END SLEDER SHOW GALLERY ========================== -->
 
                   <div class="col-sm-12">
-                    <div class="portfolio-detail-ma-3"><p class="text-paragraph text-purple">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 เมื่อเครื่องพิมพ์โนเนมเครื่องหนึ่งนำรางตัวพิมพ์มาสลับสับตำแหน่งตัวอักษรเพื่อทำหนังสือตัวอย่าง Lorem Ipsum อยู่ยงคงกระพันมาไม่ใช่แค่เพียงห้าศตวรรษ แต่อยู่มาจนถึงยุคที่พลิกโฉมเข้าสู่งานเรียงพิมพ์ด้วยวิธีทางอิเล็กทรอนิกส์ และยังคงสภาพเดิมไว้อย่างไม่มีการเปลี่ยนแปลง มันได้รับความนิยมมากขึ้นในยุค ค.ศ. 1960 เมื่อแผ่น Letraset วางจำหน่ายโดยมีข้อความบนนั้นเป็น Lorem Ipsum และล่าสุดกว่านั้น คือเมื่อซอฟท์แวร์การทำสื่อสิ่งพิมพ์ (Desktop Publishing) อย่าง Aldus PageMaker ได้รวมเอา Lorem Ipsum เวอร์ชั่นต่างๆ เข้าไว้ในซอฟท์แวร์ด้วย</p></div>
+                    <div class="portfolio-detail-ma-3"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600">
+                      <p class="text-paragraph text-purple">Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 เมื่อเครื่องพิมพ์โนเนมเครื่องหนึ่งนำรางตัวพิมพ์มาสลับสับตำแหน่งตัวอักษรเพื่อทำหนังสือตัวอย่าง Lorem Ipsum อยู่ยงคงกระพันมาไม่ใช่แค่เพียงห้าศตวรรษ แต่อยู่มาจนถึงยุคที่พลิกโฉมเข้าสู่งานเรียงพิมพ์ด้วยวิธีทางอิเล็กทรอนิกส์ และยังคงสภาพเดิมไว้อย่างไม่มีการเปลี่ยนแปลง มันได้รับความนิยมมากขึ้นในยุค ค.ศ. 1960 เมื่อแผ่น Letraset วางจำหน่ายโดยมีข้อความบนนั้นเป็น Lorem Ipsum และล่าสุดกว่านั้น คือเมื่อซอฟท์แวร์การทำสื่อสิ่งพิมพ์ (Desktop Publishing) อย่าง Aldus PageMaker ได้รวมเอา Lorem Ipsum เวอร์ชั่นต่างๆ เข้าไว้ในซอฟท์แวร์ด้วย</p>
+                    </div>
 
                      <div class="portfolio-detail-ma-3 text-purple"><p class="text-paragraph text-purple"></p>
-                        <div style="margin-top: 20px;"><b class="">รูปแบบบ้านทรงไทย</b></div>
-                        <div><p class="portfolio-detail-fontsize-res">บ้านที่ออกแบบบจากคอนเซ็ปต์ความเป็นอันหนึ่งอันเดียวกัน มีการจัดระเบียบของรูปทรง จังหวะ และเนื้อหาให้เกิดดุลยภาพ เข้าถึงง่ายในด้านพลังงานและการใช้งานตัวอาคาร มีการออกแบบให้ประหยัดพลังงานด้วยช่องระบายอากาศ ทำให้ตัวบ้านมีความหมุนเวียนของระบบอากาศที่เป็นธรรมชาติ</p></div>
-                        <div><p>ลักษณะของบ้าน : บ้านชั้นเดียว</p></div>
-                        <div style="margin-top: 20px;"><b>ส่วนประกอบของบ้าน</b></div>
+                        <div style="margin-top: 20px;"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600"><b class="">รูปแบบบ้านทรงไทย</b></div>
+                        <div  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600"><p class="portfolio-detail-fontsize-res">บ้านที่ออกแบบบจากคอนเซ็ปต์ความเป็นอันหนึ่งอันเดียวกัน มีการจัดระเบียบของรูปทรง จังหวะ และเนื้อหาให้เกิดดุลยภาพ เข้าถึงง่ายในด้านพลังงานและการใช้งานตัวอาคาร มีการออกแบบให้ประหยัดพลังงานด้วยช่องระบายอากาศ ทำให้ตัวบ้านมีความหมุนเวียนของระบบอากาศที่เป็นธรรมชาติ</p></div>
+                        <div  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600"><p>ลักษณะของบ้าน : บ้านชั้นเดียว</p></div>
+                        <div style="margin-top: 20px;"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600"><b>ส่วนประกอบของบ้าน</b></div>
                         <div class="col-sm-6">
-                          <div class="row">
+                          <div class="row"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="700">
                             <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div>
                             <div class="col-6"><i class="fa fa-car" aria-hidden="true"></i> : 2 ที่จอดรถ</div>
                           </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-6"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="800">
                           <div class="row">
                             <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
                             <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                           </div>
                         </div>
-                        <div class="portfolio-detail-ma-2">
+                        <div class="portfolio-detail-ma-2"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="900">
                           <p style="color: gray;">14/01/2561</p>
                         </div>
                      </div>
