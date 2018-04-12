@@ -8,7 +8,7 @@
 
       <?php include_once('inc/navbar.php'); ?>
 
-    <section style="z-index: -2;position: relative;">
+    <section style="z-index: -2;">
 
       <div class="row fix-row home-re-barnd">
 
@@ -26,7 +26,7 @@
 
               <!-- The slideshow -->
 
-              <div class="carousel-inner header-carousel " width="100%" data-aos="fade-in" data-aos-duration="1500">
+              <div class="carousel-inner header-carousel " width="100%" data-aos="fade" data-aos-duration="1500">
                 <div class="carousel-item active">
                   <img src="assets/images/morocco house type 2/slide2.jpg" alt="Los Angeles" class="img-fluid">
                   <!-- <img width="100%" src="assets/images/banner/bandner.jpg" alt="Chicago"> -->
@@ -57,7 +57,7 @@
 
 
           <div class="container">
-            <div class="row " data-aos="fade-up" data-aos-duration="2500" >
+            <div class="row " data-aos="fade-up" data-aos-duration="2500">
 <!-- ======================== Triangle ========================= -->
               <div class="col-12 mt-5 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png">
@@ -420,7 +420,7 @@ s                                  </div>
 
                 <div class="container mb-5">
                   <div class="row mb-5 mt-5" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="col-12 mb-2 align-center">
+                    <div class="col-12 mb-2 align-center mt-lg-0 mt-md-5 mt-4">
                       <img width="150px" height="" src="assets/images/triangle.png">
                     </div>
 

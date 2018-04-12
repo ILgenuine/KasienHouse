@@ -12,18 +12,18 @@
         <div class="kasian-col-haed-nav">
           <div class="triangle-nav"></div>
         </div>
-      </div>   -->  
+      </div>   -->
         <div class="row fix-row">
-          <div class="slide-overlay" style="z-index: 1;position: absolute;height: 100%;width: 100%;background-color: #f4f4f2;-webkit-clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 0, 0 0);clip-path: polygon(0 10%, 50% 0, 100% 10%, 100% 0, 0 0);">
-          </div>  
+          <div class="slide-overlay">
+          </div>
         </div>
 <!-- ======================================Content========================================================= -->
           <div class="container">
             <div class="row style-home-up-3">
-              <div class="col-12 align-center" style="margin-top: 130px;">
+              <div class="col-12 align-center" style="margin-top: 130px;" data-aos="fade-up" data-aos-duration="1500">
                 <img width="150px" height="" src="assets/images/triangle.png">
               </div>
-              <div class="col-sm-12">
+              <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500">
                   <div class="text-center text-purple"><h2 class="style-home-haed-title">รูปแบบบ้านทั้งหมด</h2></div>
                   <div class="text-center fix-content-col">
                     <p></p>
@@ -35,7 +35,7 @@
             <div class="row">
               <div class="col-lg-4">
 
-                <div class="home-detail-ma-auto">
+                <div class="home-detail-ma-auto"  data-aos="fade-right" data-aos-duration="1500">
                   <div style="background-color: #17073ee8;">
                     <div class="text-white home-detai-submenul">รูปแบบบ้านของ Kasien House</div>
                   </div>
@@ -61,19 +61,19 @@
 
 
 
-                <div style="background-color: #f4f4f2;height: 100%;">
+                <div style="background-color: #f4f4f2;height: 100%;" >
                   <div class="col-sm-12">
                     <div class="home-detail-p-auto">
-                      <div style="margin-left: 12px;margin-bottom: 30px;margin-top: 15px;">
+                      <div style="margin-left: 12px;margin-bottom: 30px;margin-top: 15px;" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="600">
                         <p class="text-purple home-detail-title-slide">รูปแบบบ้านอังกฤษ En1</p>
                       </div>
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1500"  data-aos-delay="600">
                       <div class="home-setail-preview-360">
                         <iframe src="https://360player.io/p/ytmp93/" frameborder="0" width=100% height=100% allowfullscreen data-token="ytmp93"></iframe>
                       </div> 
                     </div>
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="600">
 
                         <div class="outer">
 
@@ -140,7 +140,7 @@
 
 
 
-                    <div class="col-sm-12">
+                    <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="600">
                       <div>
 
                          <div style="color:#3e2a6d;"><p class="text-paragraph text-purple"></p>
@@ -151,13 +151,13 @@
                             <div class="home-detail-head-text"><b>ส่วนประกอบของบ้าน</b></div>
                             <div class="home-detail-col-porfile">
                               <div class="row">
-                                <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div> 
+                                <div class="col-6"><i class="fa fa-bed" aria-hidden="true"></i> : 2 ห้องนอน</div>
                                 <div class="col-6"><i class="fa fa-car" aria-hidden="true"></i> : 2 ที่จอดรถ</div>
                               </div>
                             </div>
                             <div class="home-detail-col-porfile">
                               <div class="row">
-                                <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div> 
+                                <div class="col-6"><i class="fa fa-bath" aria-hidden="true"></i> : 1 ห้องน้ำ </div>
                                 <div class="col-6"><i class="fa fa-cube" aria-hidden="true"></i>  : 105.45 ตรม.</div>
                               </div>
                             </div>
@@ -178,14 +178,14 @@
 
 
               </div>
-            </div> 
+            </div>
 
 
 
 
 
 
-          </div> <!-- Container --> 
+          </div> <!-- Container -->
 
 
 
@@ -197,7 +197,7 @@
 
 
     <?php include_once('inc/footer.php'); ?>
-    <?php include_once('inc/footer.php'); ?> 
+    <?php include_once('inc/footer.php'); ?>
     <?php include_once('inc/footer-script.php'); ?>
 
 
@@ -217,7 +217,7 @@
   var thumbs = $("#thumbs");
   var totalslides = 10;
   var syncedSecondary = true;
-  
+
   bigimage.owlCarousel({
     items : 1,
     slideSpeed : 2000,
@@ -245,11 +245,11 @@
   function syncPosition(el) {
     //if loop is set to false, then you have to uncomment the next line
     //var current = el.item.index;
-    
+
     //to disable loop, comment this block
     var count = el.item.count-1;
     var current = Math.round(el.item.index - (el.item.count/2) - .5);
-    
+
     if(current < 0) {
       current = count;
     }
@@ -265,7 +265,7 @@
     var onscreen = thumbs.find('.owl-item.active').length - 1;
     var start = thumbs.find('.owl-item.active').first().index();
     var end = thumbs.find('.owl-item.active').last().index();
-    
+
     if (current > end) {
       thumbs.data('owl.carousel').to(current, 100, true);
     }
@@ -273,14 +273,14 @@
       thumbs.data('owl.carousel').to(current - onscreen, 100, true);
     }
   }
-  
+
   function syncPosition2(el) {
     if(syncedSecondary) {
       var number = el.item.index;
       bigimage.data('owl.carousel').to(number, 100, true);
     }
   }
-  
+
   thumbs.on("click", ".owl-item", function(e){
     e.preventDefault();
     var number = $(this).index();

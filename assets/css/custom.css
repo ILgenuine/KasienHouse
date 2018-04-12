@@ -66,15 +66,6 @@ div.footer-fontset-h4 {
 .fa {
   font-size: 20px;
 }
-.letter-spacing-2 {
-  letter-spacing: 1.5px;
-}
-.letter-spacing-3 {
-  letter-spacing: 2px;
-}
-.letter-spacing-1 {
-  letter-spacing: 1px;
-}
 .marginbot-auto {
   margin-bottom: auto;
 }
@@ -504,7 +495,7 @@ a.dropdown-item:hover :after {
 	top:10px;
   margin-top: 5px;
   color: #8b1292!important;
-	z-index: 2;
+	z-index: 5;
 }
 
 .header-carousel{
@@ -679,7 +670,6 @@ li.broder-left-right  {
 .home-text-profile {
   overflow: hidden;
   height: 45px;
-  letter-spacing: 1px;
 }
 .items {
   position: absolute;
@@ -862,7 +852,6 @@ h3.home-text-top-5 {
     margin: 30px auto;
     padding: 10px 30px 10px 30px;
     font-size: smaller;
-    letter-spacing: 1px;
   }
   .home-y-5 {
       margin-top: 0rem;
@@ -942,7 +931,7 @@ h3.home-text-top-5 {
     transform: translate(0%, -50%);
 }
 .about-box{
-    margin: 50px 0px; 
+    margin: 50px 0px;
 }
 /*========================= Contact ======================*/
 .contact-row {
@@ -964,7 +953,6 @@ h3.home-text-top-5 {
 .contect-col-margin0 {
     padding-left: 15px!important;
     padding-right: 15px!important;
-    letter-spacing: 2px;
 }
 .contact-col-set-input {
     padding-right: 15px;
@@ -1029,6 +1017,7 @@ h3.home-text-top-5 {
 .style-home-backgroun-set {
     background-color: #f4f4f2;
     margin-top: 40px;
+    padding-bottom: 80px;
 }
 .style-home-cradtitle {
     margin-top: 15px;
@@ -1228,7 +1217,7 @@ h3.home-text-top-5 {
       font-weight: 450;
 }
 .home-detail-head-text{
-    margin-top: 15px; 
+    margin-top: 15px;
 }
 .home-setail-preview-360{
   max-width: 100%;
@@ -1340,7 +1329,6 @@ h3.home-text-top-5 {
       margin: -30px auto;
       padding: 10px 30px 10px 30px;
       font-size: smaller;
-      letter-spacing: 1px;
   }
   .slider-li {
       width: 420px;
@@ -1414,6 +1402,12 @@ h3.home-text-top-5 {
   .home-fix-col-title {
       max-width: 85%;
   }
+/*================== Style-Home =========================*/
+  .style-home-backgroun-set {
+      background-color: #f4f4f2;
+      margin-top: 40px;
+      padding-bottom: 70px;
+  }
 }
 @media (max-width: 1024px) {
 /*=============== Header - footer =====================
@@ -1478,9 +1472,6 @@ h3.home-text-top-5 {
   .footer-manu-responsiveauto {
       padding: 8px 25px;
   }
-  .letter-spacing-2 {
-      letter-spacing: 1px;
-  }
   .footer-top-auto {
       padding-top: 35px;
       line-height: inherit;
@@ -1512,7 +1503,6 @@ h3.home-text-top-5 {
       margin: 20px auto;
       padding: 10px 30px 10px 30px;
       font-size: smaller;
-      letter-spacing: 1px;
   }
 	.dropdown-menu {
 	    left: auto!important;
@@ -1726,6 +1716,11 @@ h3.home-text-top-5 {
       height: 45px;
       color: #52297f;
       font-size: 15px;
+  }
+  .style-home-backgroun-set {
+      background-color: #f4f4f2;
+      margin-top: 40px;
+      padding-bottom: 45px;
   }
 /*================ portfilio-detail =====================*/
   .portfilio-detail-border-left-new {
@@ -2190,7 +2185,7 @@ h3.home-text-top-5 {
   .style-home-backgroun-set {
       background-color: #f4f4f2;
       margin-top: 40px;
-      padding-bottom: 30px;
+      padding-bottom: 80px;
   }
   .style-home-cradtitle {
       margin-top: 15px;
@@ -2475,7 +2470,7 @@ h3.home-text-top-5 {
       font-size: 22px;
   }
   .btn-top-home-responsive {
-     margin-top: 0px!important;
+     margin-top: 30px!important;
   }
   .home-line-top {
      margin-top: 15px;
@@ -2782,7 +2777,6 @@ h3.home-text-top-5 {
   .contect-col-margin0 {
       padding-left: 15px!important;
       padding-right: 15px!important;
-      letter-spacing: 0px;
   }
   .contact-responsive-tell {
       padding-top: 5px;
@@ -2931,7 +2925,7 @@ h3.home-text-top-5 {
       margin-top: -20px;
   }
   .btn-top-home-responsive {
-      margin-top: 40px!important;
+      margin-top: 70px!important;
       font-size: 13px;
   }
   /*===================== About ==========================*/
@@ -2978,7 +2972,6 @@ h3.home-text-top-5 {
   .contect-col-margin0 {
       padding-left: 10px!important;
       padding-right: 10px!important;
-      letter-spacing: 0px;
   }
 /*============== article ==========================*/
   .article-img-fix-size-responsive {
@@ -3025,7 +3018,7 @@ h3.home-text-top-5 {
   .style-home-backgroun-set {
       background-color: #f4f4f2;
       margin-top: 40px;
-      padding-bottom: 30px;
+      padding-bottom: 60px;
       padding-top: 30px;
   }
 /*================ Home - detail ===================*/
@@ -3348,6 +3341,12 @@ h3.home-text-top-5 {
   }
   .card-text-nockdown:last-child {
       font-size: 12px!important;
+  }
+  .style-home-backgroun-set {
+      background-color: #f4f4f2;
+      margin-top: 40px;
+      padding-bottom: 50px;
+      padding-top: 30px;
   }
 /*=================== Home - detail ====================*/
   .home-detail-p-auto {

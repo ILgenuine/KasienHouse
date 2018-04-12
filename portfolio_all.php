@@ -20,18 +20,18 @@
 <!-- ======================================Content========================================================= -->
       <div class="container">
         <div class="row">
-          <div class="col-12 align-center" style="margin-top: 130px;">
+          <div class="col-12 align-center" style="margin-top: 130px;"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
             <img width="150px" height="" src="assets/images/triangle.png">
           </div>
 
 
-          <div class="col-sm-12" >
+          <div class="col-sm-12"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1000">
             <div class="text-center text-purple about-titel-top"><h2 class="portfolio-fontsize-responsive ">ผลงานทั้งหมด</h2></div>
           </div>
 
 
             <div class="portfolio-all-background" >
-              <div class="row fix-row">
+              <div class="row fix-row"  data-aos="fade-up" data-aos-duration="1500"  data-aos-delay="1500">
 <!-- =============================================== Columns - 1 ================================================================ -->
                 <div id="col-fix-home-responsive-2" class="col-12 col-sm-4">
                   <div class="stylehome-card style-mx-auto">
@@ -46,9 +46,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -67,9 +67,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -89,9 +89,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -111,9 +111,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -133,9 +133,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -155,9 +155,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -177,9 +177,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -199,9 +199,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -222,9 +222,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -244,9 +244,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -267,9 +267,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
@@ -290,9 +290,9 @@
                       </div>
                     </div>
                       <div class="portfolio-all-card-body">
-                        <h5 class="card-title portfolio-all-fix-title letter-spacing-1">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
+                        <h5 class="card-title portfolio-all-fix-title">บ้านทรงไทย ดีไซส์สวยหรูเหมาะสำหรับครอบครัวใหญ่</h5>
                         <div>
-                          <p id="font-wight-350" class="card-text-nockdown letter-spacing-2"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
+                          <p id="font-wight-350" class="card-text-nockdown"> เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ </p>
                         </div>
                       </div>
                   </div>
