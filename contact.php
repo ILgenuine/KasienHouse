@@ -42,7 +42,7 @@
                       <div class="text-purple contact-icon-social contect-col-margin0">
                           <a href="https://www.facebook.com/" class="fa fa-facebook color-text-icon-2e2d4e"></a>
                           <a href="https://twitter.com/" class="fa fa-twitter ml-3 color-text-icon-2e2d4e"></a>
-                          <a href="https://www.google.co.th/" class="fa fa-pinterest-p ml-3 color-text-icon-2e2d4e" aria-hidden="true"></a>
+                          <a href="https://www.pinterest.com/" class="fa fa-pinterest-p ml-3 color-text-icon-2e2d4e" aria-hidden="true"></a>
                           <a href="https://www.instagram.com/" class="fa fa-instagram ml-3 color-text-icon-2e2d4e" aria-hidden="true"></a>
                       </div>
                     </div>
