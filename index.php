@@ -71,8 +71,8 @@
               </div>
 
               <div class="fix-content-col marginbot-auto">
-                 <div class="video-wrapper">
-                      <video src="assets/images/video/home.mp4"></video>
+                 <div class="video-wrapper about-video-wrapper">
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                  </div>
               </div>
             </div>

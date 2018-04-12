@@ -34,8 +34,8 @@
                   </div>
               </div>
               <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
-                  <div class="video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
-                      <iframe width="100%" height="400px" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <div class="video-wrapper about-video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                  </div>
               </div>
             </div>

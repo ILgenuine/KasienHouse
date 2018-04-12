@@ -933,6 +933,10 @@ h3.home-text-top-5 {
 .about-box{
     margin: 50px 0px;
 }
+.about-video-wrapper{
+  max-width: 100%;
+  height: 475px;
+}
 /*========================= Contact ======================*/
 .contact-row {
     margin-left: 150px;
@@ -1639,6 +1643,7 @@ h3.home-text-top-5 {
   .home-fix-col-title {
       max-width: 50%;
   }
+
 /*===================== article =================================*/
   .article-title {
       font-size: 27px;
@@ -1903,6 +1908,9 @@ h3.home-text-top-5 {
       height: 2px;
       margin-bottom: 15px;
       margin-top: 15px;
+  }
+  .about-video-wrapper {
+    height: 365px;
   }
   div.footer-fontset-h4 {
       margin-top: 17px;
@@ -2584,6 +2592,9 @@ h3.home-text-top-5 {
       margin-right: -15px;
       margin-bottom: 15px;
   }
+  .about-video-wrapper {
+    height: 275px;
+  }
 /*================= Articlr ==========================*/
   .article-haed-fix {
       flex: 0 0 100%;
@@ -2961,6 +2972,9 @@ h3.home-text-top-5 {
       color: #52297f;
       font-size: 14px!important;
   }
+  .about-video-wrapper {
+    height: 245px;
+  }
 /*===================== Contact ======================*/
   .contact-titel-top {
       margin-top: -21rem;
@@ -3290,6 +3304,9 @@ h3.home-text-top-5 {
       padding-left: 0px;
       background-position-x: -17rem;
       background-position-y: 0rem;
+  }
+  .about-video-wrapper {
+    height: 215px;
   }
 /*================== article ====================*/
   .article-title-top-up {
