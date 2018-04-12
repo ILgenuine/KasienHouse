@@ -420,7 +420,7 @@ s                                  </div>
 
                 <div class="container mb-5">
                   <div class="row mb-5 mt-5" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="col-12 mb-2 align-center">
+                    <div class="col-12 mb-2 align-center mt-lg-0 mt-md-5 mt-4">
                       <img width="150px" height="" src="assets/images/triangle.png">
                     </div>
 
