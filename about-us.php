@@ -67,7 +67,7 @@
 
           <div class="container">
             <div class="row">
-              <div class="col-12 mt-5 mb-2 align-center">
+              <div class="col-12 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png"></img>
               </div>
               <div class="col-sm-12">

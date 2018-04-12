@@ -552,7 +552,7 @@ li, a.nav-link-responsive {
     /* border-bottom: 3px solid; */
 }
 .background-broder {
-  	background-image: url('../images/borderfooter.png');"
+  	background-image: url('../images/house-footer.png');"
   	background-position: top center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1230,6 +1230,10 @@ h3.home-text-top-5 {
 .home-detail-head-text{
     margin-top: 15px; 
 }
+.home-setail-preview-360{
+  max-width: 100%;
+  height: 385px;
+}
 /*=================== portfolio-all ==================*/
 .portfolio-all-fix-img {
     height: 15rem;
@@ -1752,6 +1756,9 @@ h3.home-text-top-5 {
       margin-left: 3ex;
       margin-bottom: 3ex;
   }
+  .home-setail-preview-360 {
+    height: 315px;
+  }
   .home-detai-submenulvery {
       padding-left: 4ex;
   }
@@ -2204,6 +2211,9 @@ h3.home-text-top-5 {
   .home-detail-ma-auto {
       margin-right: 0ex;
       margin-left: 0ex;
+  }
+  .home-setail-preview-360 {
+    height: 365px;
   }
   #thumbs .home-detail-item {
       height: 60px;
@@ -2725,6 +2735,9 @@ h3.home-text-top-5 {
   }
   .home-detail-col-porfile {
       max-width: 100%;
+  }
+  .home-setail-preview-360 {
+    height: 285px;
   }
 /*==================== portlio-detial =================*/
   .portfolio-detail-outer {

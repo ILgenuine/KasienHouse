@@ -68,7 +68,9 @@
                         <p class="text-purple home-detail-title-slide">รูปแบบบ้านอังกฤษ En1</p>
                       </div>
                     <div class="col-sm-12">
-                      <div style="background-color: #000;"><img src="assets/images/model-house-type.jpg" width="100%"></div>
+                      <div class="home-setail-preview-360">
+                        <iframe src="https://360player.io/p/ytmp93/" frameborder="0" width=100% height=100% allowfullscreen data-token="ytmp93"></iframe>
+                      </div> 
                     </div>
 
                     <div class="col-sm-12">
@@ -205,9 +207,11 @@
 
 
 
+<script src="https://360player.io/static/dist/scripts/embed.js" async></script>
 
 <!-- ====================== Script Slider ============================== -->
 <script type="text/javascript">
+
   $(document).ready(function() {
   var bigimage = $("#big");
   var thumbs = $("#thumbs");
