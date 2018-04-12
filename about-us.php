@@ -35,7 +35,7 @@
               </div>
               <div class="col-sm-12">
                   <div class="video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
-                      <video src="assets/images/video/video2.mp4"></video>
+                      <iframe width="100%" height="60%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                  </div>
               </div>
             </div>
@@ -67,7 +67,7 @@
 
           <div class="container">
             <div class="row">
-              <div class="col-12 mt-5 mb-2 align-center">
+              <div class="col-12 mb-2 align-center">
                 <img width="150px" height="" src="assets/images/triangle.png"></img>
               </div>
               <div class="col-sm-12">

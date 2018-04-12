@@ -8,7 +8,7 @@
 
       <?php include_once('inc/navbar.php'); ?>
 
-    <section style="z-index: -2;position: relative;">
+    <section style="z-index: -2;">
 
       <div class="row fix-row home-re-barnd">
 

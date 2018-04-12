@@ -504,7 +504,7 @@ a.dropdown-item:hover :after {
 	top:10px;
   margin-top: 5px;
   color: #8b1292!important;
-	z-index: 2;
+	z-index: 5;
 }
 
 .header-carousel{
@@ -942,7 +942,7 @@ h3.home-text-top-5 {
     transform: translate(0%, -50%);
 }
 .about-box{
-    margin: 50px 0px; 
+    margin: 50px 0px;
 }
 /*========================= Contact ======================*/
 .contact-row {
@@ -1228,7 +1228,7 @@ h3.home-text-top-5 {
       font-weight: 450;
 }
 .home-detail-head-text{
-    margin-top: 15px; 
+    margin-top: 15px;
 }
 /*=================== portfolio-all ==================*/
 .portfolio-all-fix-img {
