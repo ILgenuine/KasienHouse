@@ -33,11 +33,16 @@
                     <p>เป็นแหล่งรวมบ้านน๊อคดาวน์ หรือเรียบกอีกชื่อหนึ่งว่า บ้านสำเร็จรูป ไม่ว่าจะเป็น การออกแบบบ้าน ขายแบบบ้านน็อคดาวน์ที่มีให้เลือกหลายสไตล์ไม่ว่าจะเป็น สไตล์รีสอร์ท สไตร์ไทยหรือสไตล์บ้านน็อคดาวน์ดมเดิร์น เรารับสร้างบ้านน็อคดาวน์ราคาถูกไปจนถึงการให้คำปรึกษาเกี่ยวกับการรับสร้างบ้านน็อคดาวห์แบบครบวงจร</p>
                   </div>
               </div>
-              <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
-                  <div class="video-wrapper about-video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
+              <div class="fix-content-col marginbot-auto">
+                 <div class="video-wrapper about-video-wrapper">
                       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                  </div>
               </div>
+   <!--            <div class="col-sm-12" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="600">
+                  <div class="video-wrapper about-video-wrapper fix-content-col about-vedio-up aboutus-vedio-fixrow">
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QxDla-tJYL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                 </div>
+              </div> -->
             </div>
           </div> <!-- Container -->
 <!-- ======================================================================================== -->
@@ -90,7 +95,7 @@
 
           <div class="background-color about-box">
             <div class="row fix-row">
-              <div class="col-sm-6" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="300">
+              <div class="col-sm-6" data-aos="fade-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="about-set-row"><img src="assets/images/home/homecontent.jpg" style="width: 100%;"></div>
               </div>
               <div class="col-sm-6">
@@ -101,7 +106,7 @@
                   <div>
                     <hr class="about-line-haeder" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="600">
                   </div>
-                  <div class="text-white" data-aos="fade-in" data-aos-duration="1500" data-aos-delay="800">
+                  <div class="text-white" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="600">
                     <p>เน้นคุณภาพของงานและวัสดุที่ใช้นั้นจะจ้องมีคุณณภาพตรงตามมาตรฐานกำหนด ที่สำคัญบ้านน็อคดาน์ทุกหลังที่เราสร้างขึ้นต้องตอบโจทย์ความต้องการของลูกค้าได้เป็นอย่างดี อาทิเช่น ลูกค้าต้องการทำธุรกิจร้านกาแฟสำเร็จรูป แบบเช่าพื้นที่ระยะยาวจะสนใจในเรื่องของร้านค้าสำเร็จรูปหรือที่เรียกว่า ร้านค้าน็อคดาวน์ ซึ่งสามารถนำไปวางในพื้นที่เช่าได้อย่างสะดวกง่ายดายหรือถ้าจะตอบโจทย์สำหรับลูกค้าที่มีธุระกิจประเภท ฟรีแลนด์อีเว้นท์ต่างๆ และต้องการใช้พื้นที่ที่มิดชิด</p>
                   </div>
                 </div>

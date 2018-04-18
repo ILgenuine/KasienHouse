@@ -402,8 +402,8 @@ textarea.form-nockdown {
     border-radius: 80px;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     color: #000;
-    background-color: #fff;
-}
+    background-color: #f0e2ff;
+	}
 .btn-nockdown {
     margin: auto;
     display: inline-block;
@@ -921,7 +921,7 @@ h3.home-text-top-5 {
     margin-left: 10rem;
     margin-right: 5rem;
     top: 50%;
-    transform: translate(0%, -50%);
+    transform: translate(0%, -50%) !important;
 }
 .about-set-collume2 {
     position: absolute;
