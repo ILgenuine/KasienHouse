@@ -102,6 +102,9 @@
                             <div class="home-detail-item">
                               <img src="assets/images/English house/TIVE-EX.jpg">
                             </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/modern house/TIVE-EX-1.jpg">
+                            </div>
                           </div>
 
                           <div id="thumbs" class="owl-carousel owl-theme">
@@ -128,6 +131,9 @@
                             </div>
                             <div class="home-detail-item">
                               <img src="assets/images/English house/TIVE-EX.jpg">
+                            </div>
+                            <div class="home-detail-item">
+                              <img src="assets/images/modern house/TIVE-EX-1.jpg">
                             </div>
                           </div>
 

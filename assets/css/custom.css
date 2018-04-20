@@ -707,12 +707,12 @@ li.broder-left-right  {
   transform: scale(.75);
 }
 
-span {
+/*span {
   position: relative;
   margin: 0 auto;
   left: 17em;
   top: 20em;
-}
+}*/
 /*=================== Crad Onslider ====================*/
 .card-slider {
     position: relative;

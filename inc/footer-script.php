@@ -9,6 +9,8 @@
 
     <!-- Plug-in, aos JS -->
     <script type="text/javascript" src="assets/js/aos.js"></script>
+    <script type="text/javascript" src="assets/dist/3dgallery/js/modernizr.custom.53451.js"></script>
+    <script type="text/javascript" src="assets/dist/3dgallery/js/jquery.gallery.js"></script>
 
     <script type="text/javascript">
     AOS.init();

@@ -124,26 +124,91 @@
 <!-- ================================== Slider Full-Sceen ========================================================== -->
           <div class="my-lg-5 my-md-5 my-2 back-slider-home">
                 <div class="row fix-row mx-auto">
-                  <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
+<!--                   <div class="col-2" data-aos="slide-left" data-aos-duration="1500">
                      <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button" id="prev">
                       <i class="fa fa-chevron-left" aria-hidden="true"></i>
                     </button>
-                  </div>
+                  </div> -->
 
 
-                    <div class="col-8" style="position:relative;">
-<!--
-                     <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next">
-                        <i class="fa fa-chevron-left" aria-hidden="true"></i>
-                     </button>
+                    <div class="col-12" style="position:relative;">
+                      <section id="dg-container" class="dg-container" style="margin-top: 40px">
+                        <div class="dg-wrapper">
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
 
-                     <button class="btn-slider nockdown-slider-button-prev home-btn-top-3" type="button"  id="prev">
-                         <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                       </button> -->
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
+
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
+
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
+
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern hous/TIVE-EX-แบบที่-4.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
+
+                          <a href="home_detail.php" class="dg-center">
+                            <div class="card-slider">
+                                <div class="card-header text-center">
+                                  บ้านแบบญี่ปุ่น
+                                </div>
+                                <div class="card-body">
+                                    <img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="img-fluid">
+                                </div>
+                            </div>
+                          </a>
+
+                        </div>
+                        <nav> 
+                          <span class="dg-prev" data-aos="slide-left" data-aos-duration="1500"><i class="fa fa-chevron-left" aria-hidden="true"></i></span>
+                          <span class="dg-next" data-aos="slide-right" data-aos-duration="1500"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+                        </nav>
+                      </section>
 
 
-
-                      <section class="section-slider">
+<!--                       <section class="section-slider">
                           <ul class="carousel">
                             <li class="items main-pos slider-li" id="1">
                               <div class="card-slider">
@@ -182,7 +247,7 @@
                                   </div>
                                   <div class="card-body home-slider-card-body">
                                     <a href="home_detail.php"><img src="assets/images/thai modern house type 02/TIVE-EX2.jpg" class="home-img-card-body"></a>
-s                                  </div>
+                                  </div>
                               </div>
                             </li>
                             <li class="items back-pos slider-li" id="5">
@@ -216,14 +281,10 @@ s                                  </div>
                               </div>
                             </li>
                           </ul>
-                        </section>
+                      </section> -->
+
                     </div>
 
-
-
-                    <div class="col-2" data-aos="slide-right" data-aos-duration="1500">
-                      <button class="btn-slider nockdown-slider-button-next home-btn-top-3" type="button"  id="next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                    </div>
 
                     <div class="col-sm-12" data-aos="fade-in" data-aos-duration="1500">
                         <button class="btn-nockdown mb-5 button-center-kasien btn-top-home-responsive" type="button">ดูรูปแบบบ้านทั้งหมด</button>
@@ -663,3 +724,9 @@ var videoPlayButton,
 videoMethods.renderVideoPlayButton()
 
 </script>
+
+    <script type="text/javascript">
+      $(function() {
+        $('#dg-container').gallery();
+      });
+    </script>

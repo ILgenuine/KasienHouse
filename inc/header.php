@@ -14,6 +14,8 @@
     <!-- Plugin -->
     <link rel="stylesheet" type="text/css" href="assets/dist/owlcarousel/css/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="assets/dist/owlcarousel/css/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/dist/3dgallery/css/style.css" />
+    
 
     <!-- NockDown CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
